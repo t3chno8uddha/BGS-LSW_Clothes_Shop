@@ -488,3 +488,1627 @@ Received Import Request.
 Start importing Assets/_Art/Sprites/Cap.png using Guid(981a0a4a94907842897479c53fdf0363) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ebcd2d9675b19f61b68752b06406e6b') in 0.005046 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 841.956679 seconds.
+  path: Assets/_Art/Sprites/Clothes/Head/Glasses 1.png
+  artifactKey: Guid(8716bf6e88b61ffc4a21fa95e6815c64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Head/Glasses 1.png using Guid(8716bf6e88b61ffc4a21fa95e6815c64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '747e581420d67ce8f1518d5546ab197b') in 0.005660 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.689915 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Coat.png
+  artifactKey: Guid(8716bf6e88b61ffc4a21fa95e6815c64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Coat.png using Guid(8716bf6e88b61ffc4a21fa95e6815c64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ecd4ccb3395c63b5d470accf1122bcb') in 0.004228 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 697.465564 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Coat.png
+  artifactKey: Guid(8716bf6e88b61ffc4a21fa95e6815c64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Coat.png using Guid(8716bf6e88b61ffc4a21fa95e6815c64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c6f77a5f62dd2c4ba437cacd1f2fabc') in 0.005011 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 6.738598 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Coat.asset
+  artifactKey: Guid(0d3e39e5b0d665f3eaa251ddb65d06f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Coat.asset using Guid(0d3e39e5b0d665f3eaa251ddb65d06f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0224f84d27e94014cba900ad502f5f0f') in 0.001059 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 4.349204 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Jackets
+  artifactKey: Guid(33f27ba39da69e3289011d2a7aa6e2cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Jackets using Guid(33f27ba39da69e3289011d2a7aa6e2cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df49d60409c9cb5fc60112efa0b1532f') in 0.000461 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 28.387343 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_White.asset
+  artifactKey: Guid(0d3e39e5b0d665f3eaa251ddb65d06f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_White.asset using Guid(0d3e39e5b0d665f3eaa251ddb65d06f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30ab382e2a278d359d0875a2affedfcc') in 0.000883 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.562279 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_White 1.asset
+  artifactKey: Guid(a4a0e26198b3e90ad9ca7ba3fa61fd3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_White 1.asset using Guid(a4a0e26198b3e90ad9ca7ba3fa61fd3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12b285b4d07755fec1a43ffe7bbd7f37') in 0.001029 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 3.241597 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Red.asset
+  artifactKey: Guid(a4a0e26198b3e90ad9ca7ba3fa61fd3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Red.asset using Guid(a4a0e26198b3e90ad9ca7ba3fa61fd3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ead773d9a0a3a40b3668fea247d8e929') in 0.000878 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.833771 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Red 1.asset
+  artifactKey: Guid(e7755947c7502093b8eac9b2c82911ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Red 1.asset using Guid(e7755947c7502093b8eac9b2c82911ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '770e0142453b7d26bb5d9e95a61fbca6') in 0.000634 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 2.652290 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Green.asset
+  artifactKey: Guid(e7755947c7502093b8eac9b2c82911ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Green.asset using Guid(e7755947c7502093b8eac9b2c82911ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66146649d0fae63b072e1faffd942d65') in 0.000909 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.654375 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Green 1.asset
+  artifactKey: Guid(9191c143b0bdda6998ac4909a6e9ac1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Green 1.asset using Guid(9191c143b0bdda6998ac4909a6e9ac1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8897a15eee0d2b67b9935e744492b6d') in 0.001039 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 4.208701 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Blue.asset
+  artifactKey: Guid(9191c143b0bdda6998ac4909a6e9ac1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Blue.asset using Guid(9191c143b0bdda6998ac4909a6e9ac1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6ceb01547ca6a4e793936ce619340c5') in 0.000883 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.679703 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Blue 1.asset
+  artifactKey: Guid(80f81f0fb58c761c2849f52634e499f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Blue 1.asset using Guid(80f81f0fb58c761c2849f52634e499f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2894e9c1fcac6cf36af1d783ac8f0466') in 0.000959 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 4.792605 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Cyan.asset
+  artifactKey: Guid(80f81f0fb58c761c2849f52634e499f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Cyan.asset using Guid(80f81f0fb58c761c2849f52634e499f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2626d1505f4e5578b6b5a7a53802d860') in 0.000985 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.658630 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Cyan 1.asset
+  artifactKey: Guid(a610e991ace968293a0496666ff66d2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Cyan 1.asset using Guid(a610e991ace968293a0496666ff66d2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4892a1213cd3d25bb70fa180d6427542') in 0.000969 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 4.203150 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Magenta.asset
+  artifactKey: Guid(a610e991ace968293a0496666ff66d2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Magenta.asset using Guid(a610e991ace968293a0496666ff66d2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8abe1d6b458b145ea765514ee5b79e92') in 0.000874 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.616783 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Magenta 1.asset
+  artifactKey: Guid(503e9a35b6c8061808ed657d3d916753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Magenta 1.asset using Guid(503e9a35b6c8061808ed657d3d916753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd5e51473de1c02cc7f35bb62dcc0f9f') in 0.001087 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 13.624375 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Yellow.asset
+  artifactKey: Guid(80f81f0fb58c761c2849f52634e499f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Yellow.asset using Guid(80f81f0fb58c761c2849f52634e499f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b672638d3dfba4bcefb12ae94f952242') in 0.000875 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 3.341719 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_White 1.asset
+  artifactKey: Guid(5cbdb291befe2813b8054fd627a565a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_White 1.asset using Guid(5cbdb291befe2813b8054fd627a565a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30f0b6a6b627c986d7acbdf0529900e2') in 0.001044 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 3.070631 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Black.asset
+  artifactKey: Guid(5cbdb291befe2813b8054fd627a565a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Black.asset using Guid(5cbdb291befe2813b8054fd627a565a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72c65edf2629c81cc5a8eb36356b5296') in 0.000905 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 9.304899 seconds.
+  path: Assets/_Art/Sprites/Characters/Player.png
+  artifactKey: Guid(f2317d445b014e8988fe9586c7c10fb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Characters/Player.png using Guid(f2317d445b014e8988fe9586c7c10fb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94bc521681191f54f0d9a2b87ab82f54') in 0.006334 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 79.126642 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Coat_Red.png
+  artifactKey: Guid(c73969b2d7bd5d74cbde8fe7e4ed21c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Coat_Red.png using Guid(c73969b2d7bd5d74cbde8fe7e4ed21c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baebd276133ec041de3593f7810aa05c') in 0.005590 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 29.902094 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Coat_Red.png
+  artifactKey: Guid(c73969b2d7bd5d74cbde8fe7e4ed21c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Coat_Red.png using Guid(c73969b2d7bd5d74cbde8fe7e4ed21c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7388c18327650f5a95be19bbfb685e2b') in 0.006078 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 8.614050 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Red.asset
+  artifactKey: Guid(a4a0e26198b3e90ad9ca7ba3fa61fd3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Red.asset using Guid(a4a0e26198b3e90ad9ca7ba3fa61fd3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1870aab9ed7e68ad1d8e9b3d44343a95') in 0.000757 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 17.771000 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Yellow.asset
+  artifactKey: Guid(80f81f0fb58c761c2849f52634e499f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Yellow.asset using Guid(80f81f0fb58c761c2849f52634e499f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73b408db3a173eaaa52171c1fa979358') in 0.000796 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 2587.482110 seconds.
+  path: Assets/_Art/Sprites/Clothes/Legs/Pants_Blue.png
+  artifactKey: Guid(b18bd587827ab98bdad931c3b47aff41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Legs/Pants_Blue.png using Guid(b18bd587827ab98bdad931c3b47aff41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc11d1df8bb64afe1a1764384d518a43') in 0.004736 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 5.327452 seconds.
+  path: Assets/_Art/Sprites/Clothes/Legs/Pants_Blue.png
+  artifactKey: Guid(b18bd587827ab98bdad931c3b47aff41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Legs/Pants_Blue.png using Guid(b18bd587827ab98bdad931c3b47aff41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4d161edf80c904f9cd90819626e4003') in 0.006601 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 6.921482 seconds.
+  path: Assets/_Art/Sprites/Clothes/Legs/Pants
+  artifactKey: Guid(c51e18041c258cdf49d7d71debf7d0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Legs/Pants using Guid(c51e18041c258cdf49d7d71debf7d0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f9732dfd8363c13b1711bc481534eee') in 0.000431 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 128.407404 seconds.
+  path: Assets/_Art/Sprites/Clothes/Legs/Pants/Pants_Blue 1.png
+  artifactKey: Guid(730a36a7238a2c9eb8380a492c8c46d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Legs/Pants/Pants_Blue 1.png using Guid(730a36a7238a2c9eb8380a492c8c46d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc29b4d1560b60f24e0a76b7ee170561') in 0.004773 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 28.426994 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Coat
+  artifactKey: Guid(3a0f4c317d31e5116bb56bb9f8261e82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Coat using Guid(3a0f4c317d31e5116bb56bb9f8261e82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31387748bb106133147bd1d863a9899e') in 0.000455 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 11.990554 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Coat/Coat_White.png
+  artifactKey: Guid(8716bf6e88b61ffc4a21fa95e6815c64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Coat/Coat_White.png using Guid(8716bf6e88b61ffc4a21fa95e6815c64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acc4f9032e0a8b8e536126f4aa177c88') in 0.007827 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.500113 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Coat/Coat_White 1.png
+  artifactKey: Guid(062abc930fc9a6f6c8c4dff77a549326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Coat/Coat_White 1.png using Guid(062abc930fc9a6f6c8c4dff77a549326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f43cdcc69c5498bb96db1c075cd9efc') in 0.007144 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.366365 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Coat/Coat_Black.png
+  artifactKey: Guid(062abc930fc9a6f6c8c4dff77a549326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Coat/Coat_Black.png using Guid(062abc930fc9a6f6c8c4dff77a549326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1e6c025f3a456325b471e8850ede49e') in 0.016927 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.500580 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Coat/Coat_Black 1.png
+  artifactKey: Guid(adc29a8765efee3559d78730a8d3fa4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Coat/Coat_Black 1.png using Guid(adc29a8765efee3559d78730a8d3fa4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1594f73a95c802c7b1b68b3bda99b50') in 0.008587 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 2.742898 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Coat/Coat_Yellow.png
+  artifactKey: Guid(adc29a8765efee3559d78730a8d3fa4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Coat/Coat_Yellow.png using Guid(adc29a8765efee3559d78730a8d3fa4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd49fed362df7f1b5693f78df21b578bc') in 0.007790 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.656373 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Coat/Coat_Yellow 1.png
+  artifactKey: Guid(8ec8cc895328f65a98e1122d8e443033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Coat/Coat_Yellow 1.png using Guid(8ec8cc895328f65a98e1122d8e443033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1eb38205fe3e747d87ec98a7c106cebb') in 0.008314 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 5.894999 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Coat/Coat_Green.png
+  artifactKey: Guid(8ec8cc895328f65a98e1122d8e443033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Coat/Coat_Green.png using Guid(8ec8cc895328f65a98e1122d8e443033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b1fae36fd7cd3ed5ea3747e2b9823be') in 0.007826 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 6.895091 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Coat/Coat_Yellow 1.png
+  artifactKey: Guid(4fe3f6ab8157cca0790cd2302425da22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Coat/Coat_Yellow 1.png using Guid(4fe3f6ab8157cca0790cd2302425da22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06830a611b9d9d06ea7daf304d3c8555') in 0.014355 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.846010 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Coat/Coat_Blue.png
+  artifactKey: Guid(4fe3f6ab8157cca0790cd2302425da22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Coat/Coat_Blue.png using Guid(4fe3f6ab8157cca0790cd2302425da22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63eef78cc0e83a29c711cae28ffbb405') in 0.011520 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 570.666655 seconds.
+  path: Assets/_Art/Sprites/Clothes/Head/Cap.png
+  artifactKey: Guid(28cda9e8e7538576687c381d99a992da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Head/Cap.png using Guid(28cda9e8e7538576687c381d99a992da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15813b46343cb1ead83ad2584c8c27cf') in 0.005826 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 137.326598 seconds.
+  path: Assets/_Art/Sprites/Clothes/Head/Cap.png
+  artifactKey: Guid(28cda9e8e7538576687c381d99a992da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Head/Cap.png using Guid(28cda9e8e7538576687c381d99a992da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c733ea9029ac39dd85ffdb45f66213c5') in 0.006661 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 271.399787 seconds.
+  path: Assets/_Art/Sprites/Clothes/Legs/Pants_Blue.png
+  artifactKey: Guid(d12fdbcab41cf50a18b870c68d1ede0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Legs/Pants_Blue.png using Guid(d12fdbcab41cf50a18b870c68d1ede0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd73a025afd781b0f525263f5dafd4e6a') in 0.004743 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 81.611869 seconds.
+  path: Assets/_Art/Sprites/Clothes/Legs/Pants/Pants_Blue.png
+  artifactKey: Guid(b18bd587827ab98bdad931c3b47aff41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Legs/Pants/Pants_Blue.png using Guid(b18bd587827ab98bdad931c3b47aff41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1358dd55f266968de5991095352219d') in 0.007638 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 71.295678 seconds.
+  path: Assets/_Art/Sprites/Clothes/Head/Cap.png
+  artifactKey: Guid(28cda9e8e7538576687c381d99a992da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Head/Cap.png using Guid(28cda9e8e7538576687c381d99a992da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a03bc02e108047ebb0e0ac56558c211e') in 0.004908 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 2.726059 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Black.asset
+  artifactKey: Guid(5cbdb291befe2813b8054fd627a565a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Black.asset using Guid(5cbdb291befe2813b8054fd627a565a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16613c252dfba8dafc5c779f88dd24f6') in 0.000802 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.921251 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_White.asset
+  artifactKey: Guid(0d3e39e5b0d665f3eaa251ddb65d06f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_White.asset using Guid(0d3e39e5b0d665f3eaa251ddb65d06f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c600623817ea64b76210555a6ac3b116') in 0.000769 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.744054 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Green.asset
+  artifactKey: Guid(e7755947c7502093b8eac9b2c82911ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Green.asset using Guid(e7755947c7502093b8eac9b2c82911ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c34020dceed92ed020a02d77f9c776d7') in 0.000765 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 2.272153 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Red.asset
+  artifactKey: Guid(a4a0e26198b3e90ad9ca7ba3fa61fd3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Red.asset using Guid(a4a0e26198b3e90ad9ca7ba3fa61fd3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2312bb95d8e4d85a055cc165def7eca8') in 0.000779 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 13.502220 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Jacket
+  artifactKey: Guid(3a0f4c317d31e5116bb56bb9f8261e82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Jacket using Guid(3a0f4c317d31e5116bb56bb9f8261e82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7999c84431b68660df544ef7da1fd1fa') in 0.000288 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.556476 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Jacket/Jacket_Red.png
+  artifactKey: Guid(c73969b2d7bd5d74cbde8fe7e4ed21c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Jacket/Jacket_Red.png using Guid(c73969b2d7bd5d74cbde8fe7e4ed21c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db2cbc6df61b46a88d276d8030b81bc3') in 0.006403 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 2.076193 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Jacket/Jacket_White.png
+  artifactKey: Guid(8716bf6e88b61ffc4a21fa95e6815c64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Jacket/Jacket_White.png using Guid(8716bf6e88b61ffc4a21fa95e6815c64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d729f53b67163a7dc4772ead1d128a') in 0.004364 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 10.392866 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Legs/Pants
+  artifactKey: Guid(1b6a70ad574960f20aaed7b4345140db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Legs/Pants using Guid(1b6a70ad574960f20aaed7b4345140db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e8104a526d42f9d86a564beaeaaae3f') in 0.000659 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 5.439012 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Legs/Pants/Pants_Blue.asset
+  artifactKey: Guid(4277bbc8091563d4c95ba9b7b7634989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Legs/Pants/Pants_Blue.asset using Guid(4277bbc8091563d4c95ba9b7b7634989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4cd1eb5c1a26000986e41d7c8b234dc') in 0.001007 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 581.913843 seconds.
+  path: Assets/_Code/Player
+  artifactKey: Guid(e8c1f3b8c5086dc8cb95c8a6546f61d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Code/Player using Guid(e8c1f3b8c5086dc8cb95c8a6546f61d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfba92dd8cbcc4b17d1134997fe66b33') in 0.000323 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 766.302398 seconds.
+  path: Assets/_Art/Sprites/Characters/Player.png
+  artifactKey: Guid(f2317d445b014e8988fe9586c7c10fb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Characters/Player.png using Guid(f2317d445b014e8988fe9586c7c10fb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcc1d03e2c693f03967fbd7be8af66f6') in 0.005469 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1628.716812 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Jacket 1
+  artifactKey: Guid(14ba21a1f0e84cc1aa8b7ea027864a38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Jacket 1 using Guid(14ba21a1f0e84cc1aa8b7ea027864a38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b25e4d7fbc224d9a51123940904ececf') in 0.000665 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 3.599225 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/შჰირტ
+  artifactKey: Guid(14ba21a1f0e84cc1aa8b7ea027864a38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/შჰირტ using Guid(14ba21a1f0e84cc1aa8b7ea027864a38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '702e4ccb967ccad0c1aaafaa14985790') in 0.000275 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 5.110508 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Shirt
+  artifactKey: Guid(14ba21a1f0e84cc1aa8b7ea027864a38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Shirt using Guid(14ba21a1f0e84cc1aa8b7ea027864a38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c69801808b835af33fa8936eda2c3225') in 0.000280 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 11.863360 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Shirt/Jacket_White.png
+  artifactKey: Guid(4e3936c0190dfe43e8c1af30bb30db3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Shirt/Jacket_White.png using Guid(4e3936c0190dfe43e8c1af30bb30db3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f721d9c74d17a20a84312a4e7fc0c13') in 0.005030 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.771363 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Whiet.png
+  artifactKey: Guid(4e3936c0190dfe43e8c1af30bb30db3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Whiet.png using Guid(4e3936c0190dfe43e8c1af30bb30db3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f262b5370e0c107c9cf298f0ff723617') in 0.005166 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.203686 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Shirt/Jacket_Red.png
+  artifactKey: Guid(ba7fd5bcaf627ef3db8e471bf93e6de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Shirt/Jacket_Red.png using Guid(ba7fd5bcaf627ef3db8e471bf93e6de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2416ec96378a7b4003db22c1004105e9') in 0.004559 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 2.061455 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_White.png
+  artifactKey: Guid(4e3936c0190dfe43e8c1af30bb30db3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_White.png using Guid(4e3936c0190dfe43e8c1af30bb30db3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c79f5cb7b6fa213200507124baf524bb') in 0.004639 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 2.926758 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Red.png
+  artifactKey: Guid(ba7fd5bcaf627ef3db8e471bf93e6de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Red.png using Guid(ba7fd5bcaf627ef3db8e471bf93e6de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd81406546d0ad0704a625197ce4857d2') in 0.004493 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 420.400317 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Jackets 1
+  artifactKey: Guid(0e702d6c902da422f81f50c1afb6f408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Jackets 1 using Guid(0e702d6c902da422f81f50c1afb6f408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9a2d7d3c8afeb41765679e6f968cb22') in 0.000419 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2.376951 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Shirts
+  artifactKey: Guid(0e702d6c902da422f81f50c1afb6f408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Shirts using Guid(0e702d6c902da422f81f50c1afb6f408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e9e30b46459406eaae716f8397bd072') in 0.000270 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.491135 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Shirts/Jacket_Red.asset
+  artifactKey: Guid(41194f6d95bca52a499d6e199a06d0a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Shirts/Jacket_Red.asset using Guid(41194f6d95bca52a499d6e199a06d0a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab2c30eb59f538d961f32eea784635c7') in 0.000861 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.066938 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Shirts/Jacket_White.asset
+  artifactKey: Guid(19115fbc0e3e35e1281264615ddedd65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Shirts/Jacket_White.asset using Guid(19115fbc0e3e35e1281264615ddedd65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a08f59e13ae24c96bf50f8e612708f28') in 0.000802 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 3.369948 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Shirts/Shirt_White.asset
+  artifactKey: Guid(19115fbc0e3e35e1281264615ddedd65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Shirts/Shirt_White.asset using Guid(19115fbc0e3e35e1281264615ddedd65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ef00e27e5872129b031c6e53b54b557') in 0.001010 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.868727 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Shirts/Shirt_Red.asset
+  artifactKey: Guid(41194f6d95bca52a499d6e199a06d0a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Shirts/Shirt_Red.asset using Guid(41194f6d95bca52a499d6e199a06d0a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4d43a1211985bfb7296a6ba00ab5241') in 0.000995 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.273711 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Red.png
+  artifactKey: Guid(ba7fd5bcaf627ef3db8e471bf93e6de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Red.png using Guid(ba7fd5bcaf627ef3db8e471bf93e6de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '705432733838441c3f70086cf055941a') in 0.004809 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 153.797912 seconds.
+  path: Assets/_Art/Sprites/Clothes/Head/Cap.png
+  artifactKey: Guid(28cda9e8e7538576687c381d99a992da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Head/Cap.png using Guid(28cda9e8e7538576687c381d99a992da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb97b2a7dca34b751cd46a47e0fbe594') in 0.019338 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1086.657477 seconds.
+  path: Assets/_Art/Sprites/Clothes/Head/Cap.png
+  artifactKey: Guid(28cda9e8e7538576687c381d99a992da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Head/Cap.png using Guid(28cda9e8e7538576687c381d99a992da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd36a684e7c451bdd4f24a82938551973') in 0.004333 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 15.956220 seconds.
+  path: Assets/_Art/Sprites/Clothes/Head/Hats
+  artifactKey: Guid(15babea9a912c9a86a05ce0927894b51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Head/Hats using Guid(15babea9a912c9a86a05ce0927894b51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1337ef12799e6cb8adf03294c1c0332d') in 0.000431 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.548667 seconds.
+  path: Assets/_Art/Sprites/Clothes/Head/Hats 1
+  artifactKey: Guid(40cae026add85cd769b5db6bbea145f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Head/Hats 1 using Guid(40cae026add85cd769b5db6bbea145f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57fb808dcf8a047e96d0f3bfdfc602a8') in 0.000622 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.511558 seconds.
+  path: Assets/_Art/Sprites/Clothes/Head/Glasses
+  artifactKey: Guid(40cae026add85cd769b5db6bbea145f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Head/Glasses using Guid(40cae026add85cd769b5db6bbea145f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ac461f60b484fdb699feaa7aee3c958') in 0.000367 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 8.792419 seconds.
+  path: Assets/_Art/Sprites/Clothes/Head/Glasses/Glasses_Blue.png
+  artifactKey: Guid(fd541ee0ca9f527d0bbe4f6f2b22ef41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Head/Glasses/Glasses_Blue.png using Guid(fd541ee0ca9f527d0bbe4f6f2b22ef41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e79bdaa05bec80a0012911284a26f227') in 0.004931 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.373980 seconds.
+  path: Assets/_Art/Sprites/Clothes/Head/Glasses/Glasses_Blue 1.png
+  artifactKey: Guid(568cf5496c934c4918f95b5a9d22f3d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Head/Glasses/Glasses_Blue 1.png using Guid(568cf5496c934c4918f95b5a9d22f3d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c23bb9f8f04c11cd26836a0fd59d5a9f') in 0.004677 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 2.103215 seconds.
+  path: Assets/_Art/Sprites/Clothes/Head/Glasses/Glasses_Black.png
+  artifactKey: Guid(568cf5496c934c4918f95b5a9d22f3d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Head/Glasses/Glasses_Black.png using Guid(568cf5496c934c4918f95b5a9d22f3d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d6ee0e44149c016ec010c341cedd0cc') in 0.004189 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 23.468480 seconds.
+  path: Assets/_Art/Sprites/Clothes/Head/Glasses/Glasses_Black.png
+  artifactKey: Guid(568cf5496c934c4918f95b5a9d22f3d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Head/Glasses/Glasses_Black.png using Guid(568cf5496c934c4918f95b5a9d22f3d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7a6f6930892e76b39f82778db035dfb') in 0.004180 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 19.671161 seconds.
+  path: Assets/_Art/Sprites/Clothes/Head/Glasses/Glasses_Black.png
+  artifactKey: Guid(568cf5496c934c4918f95b5a9d22f3d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Head/Glasses/Glasses_Black.png using Guid(568cf5496c934c4918f95b5a9d22f3d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a32cc85e200278ec1c3b97feed84f523') in 0.005347 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 2.581129 seconds.
+  path: Assets/_Art/Sprites/Clothes/Head/Glasses/Glasses_Black 1.png
+  artifactKey: Guid(8ee8c370fac1e4879a2cc24b9dbe7813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Head/Glasses/Glasses_Black 1.png using Guid(8ee8c370fac1e4879a2cc24b9dbe7813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56833a35d1eedb67e97a528a7f8d4d3b') in 0.004315 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 2.556179 seconds.
+  path: Assets/_Art/Sprites/Clothes/Head/Glasses/Glasses_Red.png
+  artifactKey: Guid(8ee8c370fac1e4879a2cc24b9dbe7813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Head/Glasses/Glasses_Red.png using Guid(8ee8c370fac1e4879a2cc24b9dbe7813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1307ba810fcd03887a903ec50161a52a') in 0.004183 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 124.685738 seconds.
+  path: Assets/_Art/Sprites/Clothes/Head/Glasses/Glasses_Red.png
+  artifactKey: Guid(8ee8c370fac1e4879a2cc24b9dbe7813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Head/Glasses/Glasses_Red.png using Guid(8ee8c370fac1e4879a2cc24b9dbe7813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6802b0362038163925e091520662b67e') in 0.005760 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 74.799344 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Head/Glasses
+  artifactKey: Guid(e7ddc8830d9be357d9cd44d809d8053d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Head/Glasses using Guid(e7ddc8830d9be357d9cd44d809d8053d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'beb0187bc50180c4f68f84b72cd4e679') in 0.000452 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 17.023201 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Head/Glasses/Glasses_Blue.asset
+  artifactKey: Guid(b617ac6136117cd1a81b7d37dd4d08bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Head/Glasses/Glasses_Blue.asset using Guid(b617ac6136117cd1a81b7d37dd4d08bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e307ee9023710ccb6b14a34dd064f266') in 0.000982 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.766268 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Head/Glasses/Glasses_Blue 1.asset
+  artifactKey: Guid(be4cce4a0736d7dc68ba6428f56bb629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Head/Glasses/Glasses_Blue 1.asset using Guid(be4cce4a0736d7dc68ba6428f56bb629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b40c9c09e5a16578fe0d7050bb6344a') in 0.001056 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.768319 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Head/Glasses/Glasses_Red.asset
+  artifactKey: Guid(be4cce4a0736d7dc68ba6428f56bb629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Head/Glasses/Glasses_Red.asset using Guid(be4cce4a0736d7dc68ba6428f56bb629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfdf3a394c5531db8b7edcaca2549563') in 0.001114 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.747644 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Head/Glasses/Glasses_Red 1.asset
+  artifactKey: Guid(97e9076c30e6d5478b9ff992345d3a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Head/Glasses/Glasses_Red 1.asset using Guid(97e9076c30e6d5478b9ff992345d3a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '526e7ff58525e7bbff6cc80337e1f4bb') in 0.001080 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.800987 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Head/Glasses/Glasses_Black.asset
+  artifactKey: Guid(97e9076c30e6d5478b9ff992345d3a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Head/Glasses/Glasses_Black.asset using Guid(97e9076c30e6d5478b9ff992345d3a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1661c37df993af60a45f7ae54dc4aca6') in 0.000956 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 13.551817 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Head/Glasses/Glasses_Red.asset
+  artifactKey: Guid(be4cce4a0736d7dc68ba6428f56bb629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Head/Glasses/Glasses_Red.asset using Guid(be4cce4a0736d7dc68ba6428f56bb629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fb36e2cc45cb19951f55bf7ad495b4a') in 0.000954 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 518.728350 seconds.
+  path: Assets/_Art/Animation/Player/Idle
+  artifactKey: Guid(cb59bbfb7220350cfa5bbf52e82520ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Animation/Player/Idle using Guid(cb59bbfb7220350cfa5bbf52e82520ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af02071b4d8e439e1cec4fbaf926f2b5') in 0.001760 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 299.582706 seconds.
+  path: Assets/_Art/Sprites/Characters/Player.png
+  artifactKey: Guid(f2317d445b014e8988fe9586c7c10fb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Characters/Player.png using Guid(f2317d445b014e8988fe9586c7c10fb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1620de0cd1ddfc78893ad142da9cc352') in 0.008271 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 61.288748 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Shirts/Shirt_Red.asset
+  artifactKey: Guid(41194f6d95bca52a499d6e199a06d0a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Shirts/Shirt_Red.asset using Guid(41194f6d95bca52a499d6e199a06d0a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04e29d26495eabb19a03aeaf0dd10470') in 0.001198 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.400190 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Legs/Pants/Pants_Blue.asset
+  artifactKey: Guid(4277bbc8091563d4c95ba9b7b7634989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Legs/Pants/Pants_Blue.asset using Guid(4277bbc8091563d4c95ba9b7b7634989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48dd8c88f812e960e734821956a87f62') in 0.001680 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 2.258692 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Legs/Pants/Pants_Blue 3.asset
+  artifactKey: Guid(248a97d9cf7bc88868ec75199f454780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Legs/Pants/Pants_Blue 3.asset using Guid(248a97d9cf7bc88868ec75199f454780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e36ac66dfae1a6ffd80ea3c312c8c31') in 0.001186 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.045760 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Legs/Pants/Pants_Blue 1.asset
+  artifactKey: Guid(d0433110c2b38cb4883784b5842d2387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Legs/Pants/Pants_Blue 1.asset using Guid(d0433110c2b38cb4883784b5842d2387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cd63e142ead18b1b0145ffc140687fb') in 0.000693 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.099215 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Legs/Pants/Pants_Blue 2.asset
+  artifactKey: Guid(1fa0ac47d9cf8b7ab998f9be65f4012a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Legs/Pants/Pants_Blue 2.asset using Guid(1fa0ac47d9cf8b7ab998f9be65f4012a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ba1dd78540b7f36c4c9bf2b7cdccec4') in 0.001107 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 5.176808 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Legs/Pants/Pants_Red.asset
+  artifactKey: Guid(1fa0ac47d9cf8b7ab998f9be65f4012a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Legs/Pants/Pants_Red.asset using Guid(1fa0ac47d9cf8b7ab998f9be65f4012a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b4438f3365f61867cde1d566713cbe9') in 0.000985 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 6.412053 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Legs/Pants/Pants_White.asset
+  artifactKey: Guid(248a97d9cf7bc88868ec75199f454780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Legs/Pants/Pants_White.asset using Guid(248a97d9cf7bc88868ec75199f454780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e7d1406b1144dd24f1c346a16b1c527') in 0.000942 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 6.768665 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Legs/Pants/Pants_Green.asset
+  artifactKey: Guid(d0433110c2b38cb4883784b5842d2387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Legs/Pants/Pants_Green.asset using Guid(d0433110c2b38cb4883784b5842d2387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc3fe0dfcc7fcff366056c0224f8d012') in 0.001000 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.431757 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Legs/Pants/Pants_Green 1.asset
+  artifactKey: Guid(abfc8eada36e2fd448c553a6cd803a3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Legs/Pants/Pants_Green 1.asset using Guid(abfc8eada36e2fd448c553a6cd803a3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e65de80dc66c091dd53a5b02d72c80fc') in 0.001025 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 3.606140 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Legs/Pants/Pants_Yellow.asset
+  artifactKey: Guid(abfc8eada36e2fd448c553a6cd803a3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Legs/Pants/Pants_Yellow.asset using Guid(abfc8eada36e2fd448c553a6cd803a3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c12fe2da4a3978b179dccd7d45c5c31a') in 0.001100 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.157196 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Head/Cap.asset
+  artifactKey: Guid(2534b3ef9c03348dbab70fb428781c4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Head/Cap.asset using Guid(2534b3ef9c03348dbab70fb428781c4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b9b21fe1c305337c41b6e97dd7d80e1') in 0.000768 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 4.573602 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Head/Hats
+  artifactKey: Guid(f450dd1cbb050829486f95a9718270c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Head/Hats using Guid(f450dd1cbb050829486f95a9718270c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aaac8dcad3863f57bec76a9ed6f9db4') in 0.000430 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 5.723377 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Head/Hats/Cap 1.asset
+  artifactKey: Guid(021030b82cdc53940b75be3380919ad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Head/Hats/Cap 1.asset using Guid(021030b82cdc53940b75be3380919ad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c916832433c82faf0bf42249540537e8') in 0.001222 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 2.623583 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Head/Hats/Crown.asset
+  artifactKey: Guid(021030b82cdc53940b75be3380919ad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Head/Hats/Crown.asset using Guid(021030b82cdc53940b75be3380919ad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab3944a33f976d804354f5adbb152d22') in 0.000958 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 67.366623 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_White 1.asset
+  artifactKey: Guid(fa9642b45adea1bad93126a4f39cb7b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_White 1.asset using Guid(fa9642b45adea1bad93126a4f39cb7b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c29851a017deb37427102b14e74d393') in 0.001036 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 5.111237 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Black.asset
+  artifactKey: Guid(fa9642b45adea1bad93126a4f39cb7b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Black.asset using Guid(fa9642b45adea1bad93126a4f39cb7b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4984e63bbc8a42a96a029bb87526aa2c') in 0.000978 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 4.989311 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Red 1.asset
+  artifactKey: Guid(94a12e28525c082baa6716c9ec617df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Red 1.asset using Guid(94a12e28525c082baa6716c9ec617df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8aa821474418b8da5c99112863f6a13b') in 0.001065 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 2.158080 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Blue.asset
+  artifactKey: Guid(94a12e28525c082baa6716c9ec617df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Blue.asset using Guid(94a12e28525c082baa6716c9ec617df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f844c92b2d11bc232ae498af08cef35') in 0.000922 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.814723 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Blue 1.asset
+  artifactKey: Guid(aba7ea757fe0e5366b8d05eb69108ec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Blue 1.asset using Guid(aba7ea757fe0e5366b8d05eb69108ec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77a882b25fba48eb5b31b9624ff66e28') in 0.001056 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 2.032023 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Yellow.asset
+  artifactKey: Guid(aba7ea757fe0e5366b8d05eb69108ec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Yellow.asset using Guid(aba7ea757fe0e5366b8d05eb69108ec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0409bcaec3d6438ea1c971e14b978f2') in 0.000997 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 8.656783 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Shirts/Shirt_Red 1.asset
+  artifactKey: Guid(2b6e504ce035f354186332f9b5826305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Shirts/Shirt_Red 1.asset using Guid(2b6e504ce035f354186332f9b5826305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2a936d35daf149f09f12d4ab1bc86f5') in 0.001181 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 4.508143 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Shirts/Shirt_Blue.asset
+  artifactKey: Guid(2b6e504ce035f354186332f9b5826305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Shirts/Shirt_Blue.asset using Guid(2b6e504ce035f354186332f9b5826305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3350b0d6b2d5fc2ed03aaabc655368f4') in 0.000969 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.559917 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Shirts/Shirt_Blue 1.asset
+  artifactKey: Guid(660c6039db39f535a87819b425986e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Shirts/Shirt_Blue 1.asset using Guid(660c6039db39f535a87819b425986e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15698bded2649286927de26df72d7549') in 0.001034 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 3.290536 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Shirts/Shirt_Black.asset
+  artifactKey: Guid(660c6039db39f535a87819b425986e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Shirts/Shirt_Black.asset using Guid(660c6039db39f535a87819b425986e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ce5dc05b05009855bdbe61c44cc0a6b') in 0.001103 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.389036 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Shirts/Shirt_Black 1.asset
+  artifactKey: Guid(873b14f2a631c7eebbd5dddef7c45996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Shirts/Shirt_Black 1.asset using Guid(873b14f2a631c7eebbd5dddef7c45996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a38d657e90c829755e9e7b7dfb8a2b2f') in 0.001116 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 2.275231 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Shirts/Shirt_Green.asset
+  artifactKey: Guid(873b14f2a631c7eebbd5dddef7c45996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Shirts/Shirt_Green.asset using Guid(873b14f2a631c7eebbd5dddef7c45996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0e018d2e35263fa641edad6c7483f80') in 0.000930 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.860562 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Legs/Pants/Pants_Green 1.asset
+  artifactKey: Guid(b01c15738894cf892a88e5ada27219d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Legs/Pants/Pants_Green 1.asset using Guid(b01c15738894cf892a88e5ada27219d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bcf805228517c6abd68edfc2590fc05') in 0.001047 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 4.015873 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Legs/Pants/Pants_Black.asset
+  artifactKey: Guid(b01c15738894cf892a88e5ada27219d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Legs/Pants/Pants_Black.asset using Guid(b01c15738894cf892a88e5ada27219d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5ee83573c1d3cadbaef4e22735dad6c') in 0.001236 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 3.593772 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Red 1.asset
+  artifactKey: Guid(ac78192f8d4b7ca80bd1d039d6cd848f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Red 1.asset using Guid(ac78192f8d4b7ca80bd1d039d6cd848f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '297f5168bf05542e16fc43cda225566c') in 0.001022 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 4.570070 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Green.asset
+  artifactKey: Guid(ac78192f8d4b7ca80bd1d039d6cd848f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Green.asset using Guid(ac78192f8d4b7ca80bd1d039d6cd848f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8331b80ef09e9881b6d7e41db80e597') in 0.000944 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 10.874316 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Legs/Pants 1
+  artifactKey: Guid(f38a38228de7c1293b0dfc929b3b2dd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Legs/Pants 1 using Guid(f38a38228de7c1293b0dfc929b3b2dd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92ac777953bf166df5a75d184eba49b6') in 0.000419 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.702600 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Legs/Shorts
+  artifactKey: Guid(f38a38228de7c1293b0dfc929b3b2dd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Legs/Shorts using Guid(f38a38228de7c1293b0dfc929b3b2dd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b442ee18d7dcb3f2f397cdfaf19cf4a2') in 0.000258 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 4.980758 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Legs/Dresses
+  artifactKey: Guid(f38a38228de7c1293b0dfc929b3b2dd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Legs/Dresses using Guid(f38a38228de7c1293b0dfc929b3b2dd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '707c580b832c8bf6d3a76ef07e3c780e') in 0.000262 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.164801 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Legs/Dresses/Pants_Black.asset
+  artifactKey: Guid(494650e8ba8a49b008367470bf4f4e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Legs/Dresses/Pants_Black.asset using Guid(494650e8ba8a49b008367470bf4f4e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c58a528f9c6c98b3063c65ea3064a701') in 0.000774 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 4.522809 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Legs/Dresses/Dress_Black.asset
+  artifactKey: Guid(494650e8ba8a49b008367470bf4f4e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Legs/Dresses/Dress_Black.asset using Guid(494650e8ba8a49b008367470bf4f4e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4650b339c69d1a5d13e369bc5ca8fb9a') in 0.001011 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.194656 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Legs/Dresses/Pants_Blue.asset
+  artifactKey: Guid(3c81525f513bdba62be163fcef91f147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Legs/Dresses/Pants_Blue.asset using Guid(3c81525f513bdba62be163fcef91f147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7d5b2d6921e3fc9772c65f0a0bafb74') in 0.000715 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 2.884299 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Legs/Dresses/Dress_Blue.asset
+  artifactKey: Guid(3c81525f513bdba62be163fcef91f147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Legs/Dresses/Dress_Blue.asset using Guid(3c81525f513bdba62be163fcef91f147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17a99566027ac0053a65b5a39e9cb8b2') in 0.000917 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.167680 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Legs/Dresses/Pants_Green.asset
+  artifactKey: Guid(c603f22bf4274b3c28e6fa4955848fc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Legs/Dresses/Pants_Green.asset using Guid(c603f22bf4274b3c28e6fa4955848fc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9ea4e1b6b6d6327cddc76c7a6d4f015') in 0.000721 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 2.385637 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Legs/Dresses/Dress_Green.asset
+  artifactKey: Guid(c603f22bf4274b3c28e6fa4955848fc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Legs/Dresses/Dress_Green.asset using Guid(c603f22bf4274b3c28e6fa4955848fc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f77b80f059050d04d677a43afa46ee6') in 0.000938 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.167800 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Legs/Dresses/Pants_Red.asset
+  artifactKey: Guid(e5f314b7dd03e0b439ae726ebf356a62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Legs/Dresses/Pants_Red.asset using Guid(e5f314b7dd03e0b439ae726ebf356a62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb35cd1d1a069288751213b0c6661fcd') in 0.000683 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.806570 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Legs/Dresses/Dress_Red.asset
+  artifactKey: Guid(e5f314b7dd03e0b439ae726ebf356a62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Legs/Dresses/Dress_Red.asset using Guid(e5f314b7dd03e0b439ae726ebf356a62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef8adf15a032cd1a861f46e94a120f43') in 0.001116 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.128707 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Legs/Dresses/Pants_White.asset
+  artifactKey: Guid(f42d71c3c078f27d2be41665e8d7a2b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Legs/Dresses/Pants_White.asset using Guid(f42d71c3c078f27d2be41665e8d7a2b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5d639db6f2a0e5cc48e6129e691af2c') in 0.000753 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.346850 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Legs/Dresses/Dress_White.asset
+  artifactKey: Guid(f42d71c3c078f27d2be41665e8d7a2b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Legs/Dresses/Dress_White.asset using Guid(f42d71c3c078f27d2be41665e8d7a2b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc90c1e7aa79909e4eb50d4928439518') in 0.000941 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 8.337404 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Jacket/Jacket_White 1.png
+  artifactKey: Guid(d733984fae88b52e3af74ffe3cb09a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Jacket/Jacket_White 1.png using Guid(d733984fae88b52e3af74ffe3cb09a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d82f26ac79fab38b636193c3beffb02') in 0.004762 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 2.227137 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Jacket/Jacket_Green.png
+  artifactKey: Guid(d733984fae88b52e3af74ffe3cb09a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Jacket/Jacket_Green.png using Guid(d733984fae88b52e3af74ffe3cb09a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64aa4344c069ef339ae2fd9e1dd03434') in 0.011464 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.491708 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Jacket/Jacket_Green 1.png
+  artifactKey: Guid(29cd528fd87e8c2239c211e1d93a93a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Jacket/Jacket_Green 1.png using Guid(29cd528fd87e8c2239c211e1d93a93a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71a80d3ce8ddc665b3a438cc01ff14fa') in 0.006335 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.632706 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Jacket/Jacket_Blue.png
+  artifactKey: Guid(29cd528fd87e8c2239c211e1d93a93a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Jacket/Jacket_Blue.png using Guid(29cd528fd87e8c2239c211e1d93a93a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '082c8177ae151a90910f483582c2a445') in 0.005025 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.459904 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Jacket/Jacket_Blue 1.png
+  artifactKey: Guid(013ad19ad054abd5e96a6d27744d5c1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Jacket/Jacket_Blue 1.png using Guid(013ad19ad054abd5e96a6d27744d5c1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74e491eac6611cd1bb38eae229a59f63') in 0.005015 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.096370 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Jacket/Jacket_Black.png
+  artifactKey: Guid(013ad19ad054abd5e96a6d27744d5c1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Jacket/Jacket_Black.png using Guid(013ad19ad054abd5e96a6d27744d5c1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '213d83aa6a57ab5f1a9f523b629a050a') in 0.004993 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 50.423269 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Jacket/Jacket_Black.png
+  artifactKey: Guid(013ad19ad054abd5e96a6d27744d5c1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Jacket/Jacket_Black.png using Guid(013ad19ad054abd5e96a6d27744d5c1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81338ef917248e818f27c6412f68fc9c') in 0.025699 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 158.815990 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Jacket/Jacket_Green.png
+  artifactKey: Guid(d733984fae88b52e3af74ffe3cb09a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Jacket/Jacket_Green.png using Guid(d733984fae88b52e3af74ffe3cb09a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6ff4cdb9c1f8c5df7ffe8959e0ca9b4') in 0.004640 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.221831 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Jacket/Jacket_Blue.png
+  artifactKey: Guid(29cd528fd87e8c2239c211e1d93a93a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Jacket/Jacket_Blue.png using Guid(29cd528fd87e8c2239c211e1d93a93a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c3b00a3514bf009f1c63d66e081e9f7') in 0.004693 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 78.871215 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Red 1.png
+  artifactKey: Guid(6440a4f030574aaccaf123ab1362ec0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Red 1.png using Guid(6440a4f030574aaccaf123ab1362ec0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7099d6f680a1ea31f626cede0a5753f') in 0.004578 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 2.329439 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Blue.png
+  artifactKey: Guid(6440a4f030574aaccaf123ab1362ec0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Blue.png using Guid(6440a4f030574aaccaf123ab1362ec0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f02cf29ca3aca02e550a85e2891c1d57') in 0.004570 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 120.818789 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Red.png
+  artifactKey: Guid(ba7fd5bcaf627ef3db8e471bf93e6de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Red.png using Guid(ba7fd5bcaf627ef3db8e471bf93e6de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9d75a536518dda92f6623f6197a429e') in 0.004846 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 5.660786 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Bluea.png
+  artifactKey: Guid(6440a4f030574aaccaf123ab1362ec0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Bluea.png using Guid(6440a4f030574aaccaf123ab1362ec0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8b30b331bd9b3a0845e55e32d9e8650') in 0.004860 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 2.174952 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Blue.png
+  artifactKey: Guid(ba7fd5bcaf627ef3db8e471bf93e6de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Blue.png using Guid(ba7fd5bcaf627ef3db8e471bf93e6de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a87faf0d4dc9f153d63b7bb96d03ff0f') in 0.004942 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 2.987686 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Red.png
+  artifactKey: Guid(6440a4f030574aaccaf123ab1362ec0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Red.png using Guid(6440a4f030574aaccaf123ab1362ec0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e223745ee3d7b0743719eb9bd336c836') in 0.007963 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 25.406826 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_White 1.png
+  artifactKey: Guid(9f944dc0cca04c3609fee2335c4a87f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_White 1.png using Guid(9f944dc0cca04c3609fee2335c4a87f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6014e826cc7e32ecf8cf29ba0c7660a1') in 0.005082 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.595789 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Black.png
+  artifactKey: Guid(9f944dc0cca04c3609fee2335c4a87f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Black.png using Guid(9f944dc0cca04c3609fee2335c4a87f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f54afc2ab7ee7d9eed82d0154985589c') in 0.004891 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.425673 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Black 1.png
+  artifactKey: Guid(7fd4ff809b825cdd9a8fb8440a70a25e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Black 1.png using Guid(7fd4ff809b825cdd9a8fb8440a70a25e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6c3160c49c70c46853a151e09bcd7c7') in 0.005013 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.870374 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Green.png
+  artifactKey: Guid(7fd4ff809b825cdd9a8fb8440a70a25e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Green.png using Guid(7fd4ff809b825cdd9a8fb8440a70a25e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b3438bcca840345b672dec0cf4ee389') in 0.009421 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 55.387068 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_White.png
+  artifactKey: Guid(4e3936c0190dfe43e8c1af30bb30db3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_White.png using Guid(4e3936c0190dfe43e8c1af30bb30db3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '312aa49da96ed686658811027a5c4189') in 0.004601 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.506260 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Blue 1.png
+  artifactKey: Guid(b5f6decffdebe6f898a010b850dbba56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Blue 1.png using Guid(b5f6decffdebe6f898a010b850dbba56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adc1bfff3a221bdd89f25446a114aa66') in 0.004398 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.021710 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Black.png
+  artifactKey: Guid(b5f6decffdebe6f898a010b850dbba56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Black.png using Guid(b5f6decffdebe6f898a010b850dbba56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20838914bbf013c572d0f978db22a5be') in 0.011147 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 326.217853 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Black.png
+  artifactKey: Guid(b5f6decffdebe6f898a010b850dbba56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Black.png using Guid(b5f6decffdebe6f898a010b850dbba56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70a641292060b99d77afc54774b06ac2') in 0.005084 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.577201 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Blue.png
+  artifactKey: Guid(ba7fd5bcaf627ef3db8e471bf93e6de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Blue.png using Guid(ba7fd5bcaf627ef3db8e471bf93e6de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec6cebfd42a49b50cbb02721e5b7efb8') in 0.004364 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 6.464569 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Blue 1.png
+  artifactKey: Guid(26f9e4c947b38ce00ad650b1b5e94988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Blue 1.png using Guid(26f9e4c947b38ce00ad650b1b5e94988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '706b3912f73847007567ffc8f5755f1f') in 0.004645 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 2.976077 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Green.png
+  artifactKey: Guid(26f9e4c947b38ce00ad650b1b5e94988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Green.png using Guid(26f9e4c947b38ce00ad650b1b5e94988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11ae2feb6ec40d6aced9eed3b5a98e89') in 0.011841 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 26.492187 seconds.
+  path: Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Green.png
+  artifactKey: Guid(26f9e4c947b38ce00ad650b1b5e94988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Body/Shirt/Shirt_Green.png using Guid(26f9e4c947b38ce00ad650b1b5e94988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66219532a45c47d00d263b7300d7a3d6') in 0.023781 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 63.642598 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Black.asset
+  artifactKey: Guid(fa9642b45adea1bad93126a4f39cb7b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Black.asset using Guid(fa9642b45adea1bad93126a4f39cb7b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '988d72c2faf78cb501762f3571e4c50f') in 0.000824 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 112.063199 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Head/Glasses/Glasses_Black.asset
+  artifactKey: Guid(97e9076c30e6d5478b9ff992345d3a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Head/Glasses/Glasses_Black.asset using Guid(97e9076c30e6d5478b9ff992345d3a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc5c333c9af8ffac40a4bbf9dc8ff941') in 0.000752 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 14.810888 seconds.
+  path: Assets/_Art/Sprites/Clothes/Head/Hats/Cap 1.png
+  artifactKey: Guid(6ea31323123904e40ab4366f733c4104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Head/Hats/Cap 1.png using Guid(6ea31323123904e40ab4366f733c4104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0e12a7d0b071579b41ca382232f6800') in 0.004788 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 2.096598 seconds.
+  path: Assets/_Art/Sprites/Clothes/Head/Hats/Crown.png
+  artifactKey: Guid(6ea31323123904e40ab4366f733c4104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Head/Hats/Crown.png using Guid(6ea31323123904e40ab4366f733c4104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f32e8088743c31563ac98411a117656') in 0.005133 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.784740 seconds.
+  path: Assets/_Art/Sprites/Clothes/Head/Hats/Crown 1.png
+  artifactKey: Guid(663d29a2f74375b5d9ff996b07e7e6fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Head/Hats/Crown 1.png using Guid(663d29a2f74375b5d9ff996b07e7e6fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6f1d4089d98e63a45c99571aece9f99') in 0.004989 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 2.625689 seconds.
+  path: Assets/_Art/Sprites/Clothes/Head/Hats/Beanie.png
+  artifactKey: Guid(663d29a2f74375b5d9ff996b07e7e6fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Head/Hats/Beanie.png using Guid(663d29a2f74375b5d9ff996b07e7e6fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a4fa27920dfbd08a6a2af759979fb01') in 0.012361 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 7.765948 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Head/Hats/Cap 1.asset
+  artifactKey: Guid(dab8e96e924a5ddefb819aadffbf66f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Head/Hats/Cap 1.asset using Guid(dab8e96e924a5ddefb819aadffbf66f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de56a648b197c3c7b4e75961aff58599') in 0.001049 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.395325 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Head/Hats/Beanie.asset
+  artifactKey: Guid(dab8e96e924a5ddefb819aadffbf66f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Head/Hats/Beanie.asset using Guid(dab8e96e924a5ddefb819aadffbf66f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f984dc402551b21bc292575a26934d8') in 0.000927 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 795.411379 seconds.
+  path: Assets/_Art/Sprites/Clothes/Legs/Pants 1
+  artifactKey: Guid(7eff61f4c9ed4c45a82d25a434eed31b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Legs/Pants 1 using Guid(7eff61f4c9ed4c45a82d25a434eed31b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ea1e26e76fc4b50c324d3b19f232580') in 0.000422 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 5.542906 seconds.
+  path: Assets/_Art/Sprites/Clothes/Legs/Dress
+  artifactKey: Guid(7eff61f4c9ed4c45a82d25a434eed31b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Legs/Dress using Guid(7eff61f4c9ed4c45a82d25a434eed31b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04f07f60ed5cba94397ce0710416d646') in 0.000270 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 19.110119 seconds.
+  path: Assets/_Art/Sprites/Clothes/Legs/Dress/Pants_Black.png
+  artifactKey: Guid(2f28943feee8a58b08068c3b479a269d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Legs/Dress/Pants_Black.png using Guid(2f28943feee8a58b08068c3b479a269d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7393112730b3ce66de879995977665fe') in 0.004453 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.473263 seconds.
+  path: Assets/_Art/Sprites/Clothes/Legs/Dress/Pants_Green.png
+  artifactKey: Guid(3ec40d693377d7bdc9b0fd8b16d35980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Legs/Dress/Pants_Green.png using Guid(3ec40d693377d7bdc9b0fd8b16d35980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '954dfb8e7b38a776a89cef52340ebf33') in 0.004841 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 2.915210 seconds.
+  path: Assets/_Art/Sprites/Clothes/Legs/Dress/Pants_Blue.png
+  artifactKey: Guid(4cfd63c1e97f2cc21b8930c65eedcddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Legs/Dress/Pants_Blue.png using Guid(4cfd63c1e97f2cc21b8930c65eedcddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca79241e3bef778de7054c78f1d52fd7') in 0.004526 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 10.084880 seconds.
+  path: Assets/_Art/Sprites/Clothes/Legs/Dress/Pants_Red.png
+  artifactKey: Guid(8bef386687122ca008e8cfaf2a1b9163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Legs/Dress/Pants_Red.png using Guid(8bef386687122ca008e8cfaf2a1b9163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06bd1ca3085850ca27395fb38ad38a72') in 0.004870 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 974.679546 seconds.
+  path: Assets/_Art/Sprites/Clothes/Legs/Dress/Pants_Red.png
+  artifactKey: Guid(8bef386687122ca008e8cfaf2a1b9163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Legs/Dress/Pants_Red.png using Guid(8bef386687122ca008e8cfaf2a1b9163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57794923e60bc34cbb755ed15c05b665') in 0.004385 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.239282 seconds.
+  path: Assets/_Art/Sprites/Clothes/Legs/Pants/Pants_Black.png
+  artifactKey: Guid(94a68f0761b3f26bf92e1da88d5a2d5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Legs/Pants/Pants_Black.png using Guid(94a68f0761b3f26bf92e1da88d5a2d5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd13ac6dcd0fd75285ad200400cfac8aa') in 0.004878 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.644636 seconds.
+  path: Assets/_Art/Sprites/Clothes/Legs/Dress/Pants_White.png
+  artifactKey: Guid(446dc2943c1de6b36a69077ed733169b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Legs/Dress/Pants_White.png using Guid(446dc2943c1de6b36a69077ed733169b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40c595872d9409dd4eaa2478437969ea') in 0.004940 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.492229 seconds.
+  path: Assets/_Art/Sprites/Clothes/Legs/Dress/Dress_White.png
+  artifactKey: Guid(446dc2943c1de6b36a69077ed733169b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Legs/Dress/Dress_White.png using Guid(446dc2943c1de6b36a69077ed733169b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a244f417fe49c592143567f9bd44e04') in 0.008148 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 6.220409 seconds.
+  path: Assets/_Art/Sprites/Clothes/Legs/Dress/Dress_Black.png
+  artifactKey: Guid(2f28943feee8a58b08068c3b479a269d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Legs/Dress/Dress_Black.png using Guid(2f28943feee8a58b08068c3b479a269d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '045c62c85a5afe2ffee40f56a22bf21f') in 0.006978 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.817472 seconds.
+  path: Assets/_Art/Sprites/Clothes/Legs/Dress/Dress_Blue.png
+  artifactKey: Guid(4cfd63c1e97f2cc21b8930c65eedcddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Legs/Dress/Dress_Blue.png using Guid(4cfd63c1e97f2cc21b8930c65eedcddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1ea1cf874a7253640c11d6789e82a8a') in 0.004418 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 7.768985 seconds.
+  path: Assets/_Art/Sprites/Clothes/Legs/Dress/Dress_Green.png
+  artifactKey: Guid(3ec40d693377d7bdc9b0fd8b16d35980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Legs/Dress/Dress_Green.png using Guid(3ec40d693377d7bdc9b0fd8b16d35980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44cf8786b91902807f78d3824eb38084') in 0.008104 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.810891 seconds.
+  path: Assets/_Art/Sprites/Clothes/Legs/Dress/Dress_Red.png
+  artifactKey: Guid(8bef386687122ca008e8cfaf2a1b9163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Legs/Dress/Dress_Red.png using Guid(8bef386687122ca008e8cfaf2a1b9163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f4f2b2c8a1c1e4cfc52b4efaaf8edcc') in 0.004941 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 189.536132 seconds.
+  path: Assets/_Art/Sprites/Clothes/Legs/Dress/Dress_Green.png
+  artifactKey: Guid(3ec40d693377d7bdc9b0fd8b16d35980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Legs/Dress/Dress_Green.png using Guid(3ec40d693377d7bdc9b0fd8b16d35980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08468ce1f7f14db62d903b84aef18eb7') in 0.004875 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 45.836484 seconds.
+  path: Assets/_Art/Sprites/Clothes/Legs/Dress/Dress_Black.png
+  artifactKey: Guid(2f28943feee8a58b08068c3b479a269d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Legs/Dress/Dress_Black.png using Guid(2f28943feee8a58b08068c3b479a269d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d097ddc511df621d6bfe06472852043') in 0.005722 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 25.109585 seconds.
+  path: Assets/_Art/Sprites/Clothes/Legs/Dress/Dress_Black.png
+  artifactKey: Guid(2f28943feee8a58b08068c3b479a269d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Legs/Dress/Dress_Black.png using Guid(2f28943feee8a58b08068c3b479a269d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afe23e2bcc525607333d51ccc054b63e') in 0.005147 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 212.586044 seconds.
+  path: Assets/_Art/Sprites/Clothes/Legs/Dress/Dress_Red.png
+  artifactKey: Guid(8bef386687122ca008e8cfaf2a1b9163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Legs/Dress/Dress_Red.png using Guid(8bef386687122ca008e8cfaf2a1b9163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c70a5b79db50da4bca086531ab26079') in 0.006974 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 71.566529 seconds.
+  path: Assets/_Art/Sprites/Clothes/Legs/Dress/Dress_Green.png
+  artifactKey: Guid(3ec40d693377d7bdc9b0fd8b16d35980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Legs/Dress/Dress_Green.png using Guid(3ec40d693377d7bdc9b0fd8b16d35980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf1c308600482f1dd4980a4f12f7fa2c') in 0.004651 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 53.744668 seconds.
+  path: Assets/_Art/Sprites/Clothes/Legs/Dress/Dress_Blue.png
+  artifactKey: Guid(4cfd63c1e97f2cc21b8930c65eedcddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Legs/Dress/Dress_Blue.png using Guid(4cfd63c1e97f2cc21b8930c65eedcddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8bf8e09806ee9f6d941165bb30be497') in 0.004308 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.207401 seconds.
+  path: Assets/_Art/Sprites/Clothes/Legs/Dress/Dress_Black.png
+  artifactKey: Guid(2f28943feee8a58b08068c3b479a269d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Legs/Dress/Dress_Black.png using Guid(2f28943feee8a58b08068c3b479a269d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '099b624c2be33b4f6e248ba8691dbd82') in 0.004276 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.024425 seconds.
+  path: Assets/_Art/Sprites/Clothes/Legs/Dress/Dress_White.png
+  artifactKey: Guid(446dc2943c1de6b36a69077ed733169b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Legs/Dress/Dress_White.png using Guid(446dc2943c1de6b36a69077ed733169b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9379ad620fa6f502baab6351e6d20d36') in 0.004610 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 71.669081 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Legs/Pants/Pants_White.asset
+  artifactKey: Guid(248a97d9cf7bc88868ec75199f454780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Legs/Pants/Pants_White.asset using Guid(248a97d9cf7bc88868ec75199f454780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '126b394e95dfbaf74f590fd107ba6bd9') in 0.000722 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1012.578112 seconds.
+  path: Assets/_Art/Sprites/Clothes/Head/Hats/Crown.png
+  artifactKey: Guid(6ea31323123904e40ab4366f733c4104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Head/Hats/Crown.png using Guid(6ea31323123904e40ab4366f733c4104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18dbdf846f8de49ae79827ee94a921f9') in 0.005508 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 13.313019 seconds.
+  path: Assets/_Art/Sprites/Clothes/Head/Hats/Beanie.png
+  artifactKey: Guid(663d29a2f74375b5d9ff996b07e7e6fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Head/Hats/Beanie.png using Guid(663d29a2f74375b5d9ff996b07e7e6fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25953f73f71888a459bf081946c5f10c') in 0.004836 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.790424 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Head/Hats/Beanie.asset
+  artifactKey: Guid(dab8e96e924a5ddefb819aadffbf66f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Head/Hats/Beanie.asset using Guid(dab8e96e924a5ddefb819aadffbf66f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '858ce661344475ae7c7adff085bef6f3') in 0.000712 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 3.550675 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Head/Hats/Hat.asset
+  artifactKey: Guid(dab8e96e924a5ddefb819aadffbf66f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Head/Hats/Hat.asset using Guid(dab8e96e924a5ddefb819aadffbf66f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ab1d59c789acc63374ff71529400c4b') in 0.001057 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.141234 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Head/Hats/Crown.asset
+  artifactKey: Guid(021030b82cdc53940b75be3380919ad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Head/Hats/Crown.asset using Guid(021030b82cdc53940b75be3380919ad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40e3e9752a049d8f3bac0f802cd94369') in 0.000712 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 3.109524 seconds.
+  path: Assets/_Art/Sprites/Clothes/Head/Hats/Hat.png
+  artifactKey: Guid(663d29a2f74375b5d9ff996b07e7e6fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Head/Hats/Hat.png using Guid(663d29a2f74375b5d9ff996b07e7e6fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '741dc5e25250a37cfab446eb724f2a0f') in 0.005574 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 327.073404 seconds.
+  path: Assets/_Art/Sprites/Clothes/Legs/Pants/Pants_White.png
+  artifactKey: Guid(4dd4ecca9984ab0ab8f991db9e12729b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Art/Sprites/Clothes/Legs/Pants/Pants_White.png using Guid(4dd4ecca9984ab0ab8f991db9e12729b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bb8101bee50d54d22241cdd2e25ec48') in 0.004494 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 281.935481 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Blue.asset
+  artifactKey: Guid(94a12e28525c082baa6716c9ec617df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Jackets/Jacket_Blue.asset using Guid(94a12e28525c082baa6716c9ec617df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24e6ea8d86a3d8e5040fa000de91d35f') in 0.000781 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.036351 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Shirts/Shirt_Green.asset
+  artifactKey: Guid(873b14f2a631c7eebbd5dddef7c45996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Shirts/Shirt_Green.asset using Guid(873b14f2a631c7eebbd5dddef7c45996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9301e1f10d1c48d7bb73bdc77d419b58') in 0.000635 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Gamelpay/Data/Clothes/Body/Shirts/Shirt_Black.asset
+  artifactKey: Guid(660c6039db39f535a87819b425986e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gamelpay/Data/Clothes/Body/Shirts/Shirt_Black.asset using Guid(660c6039db39f535a87819b425986e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ba63f3be1a9e9f3f5d641cc8397d8c5') in 0.000601 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
