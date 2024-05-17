@@ -2,10 +2,15 @@ using UnityEngine;
 
 public class PlayerClothing : MonoBehaviour
 {
+    public Clothing heldClothing;
+
+    [Header("Equipment")]
     public Headwear headwear; // The headwear item to equip.
     public Bodywear bodywear; // The bodywear item to equip.
     public Legwear legwear; // The legwear item to equip.
 
+    [Header("Sprite Renderers")]
+    public SpriteRenderer handRenderer; // Sprite renderer for the held item.
     public SpriteRenderer headSprite, bodySprite, legsSprite; // Sprite renderers for head, body, and legs.
 
     void Start()
@@ -27,5 +32,19 @@ public class PlayerClothing : MonoBehaviour
     {
         // Display the equipped clothing sprite.
         renderer.sprite = clothing.spriteSheet;
+    }
+
+    public void HoldClothes(Clothing clothing)
+    {
+        print("Equipping");
+        heldClothing = clothing;
+        handRenderer.sprite = clothing.icon;
+    }
+
+    public void DropClothes()
+    {
+        print("Dropping");
+        heldClothing = null;
+        handRenderer.sprite = null;
     }
 }

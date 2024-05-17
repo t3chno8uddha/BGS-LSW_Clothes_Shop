@@ -127,11 +127,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 144
-        width: 16
-        height: 32
+        y: 176
+        width: 32
+        height: 16
       alignment: 9
-      pivot: {x: 0.5, y: 0.25}
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -147,12 +147,12 @@ TextureImporter:
       name: Jacket_Blue_Rack
       rect:
         serializedVersion: 2
-        x: 16
-        y: 144
-        width: 16
-        height: 32
+        x: 32
+        y: 176
+        width: 32
+        height: 16
       alignment: 9
-      pivot: {x: 0.5, y: 0.25}
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -168,12 +168,12 @@ TextureImporter:
       name: Jacket_Green_Rack
       rect:
         serializedVersion: 2
-        x: 32
-        y: 144
-        width: 16
-        height: 32
+        x: 64
+        y: 176
+        width: 32
+        height: 16
       alignment: 9
-      pivot: {x: 0.5, y: 0.25}
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -189,12 +189,12 @@ TextureImporter:
       name: Jacket_Red_Rack
       rect:
         serializedVersion: 2
-        x: 48
-        y: 144
-        width: 16
-        height: 32
+        x: 0
+        y: 160
+        width: 32
+        height: 16
       alignment: 9
-      pivot: {x: 0.5, y: 0.25}
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -210,12 +210,12 @@ TextureImporter:
       name: Jacket_White_Rack
       rect:
         serializedVersion: 2
-        x: 64
-        y: 144
-        width: 16
-        height: 31
+        x: 32
+        y: 160
+        width: 32
+        height: 16
       alignment: 9
-      pivot: {x: 0.5, y: 0.2580645}
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -231,12 +231,12 @@ TextureImporter:
       name: Pants_Black_Rack
       rect:
         serializedVersion: 2
-        x: 96
-        y: 144
-        width: 16
-        height: 32
+        x: 128
+        y: 160
+        width: 32
+        height: 16
       alignment: 9
-      pivot: {x: 0.5, y: 0.25}
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -252,12 +252,12 @@ TextureImporter:
       name: Pants_Blue_Rack
       rect:
         serializedVersion: 2
-        x: 112
-        y: 144
-        width: 16
-        height: 32
+        x: 160
+        y: 160
+        width: 32
+        height: 16
       alignment: 9
-      pivot: {x: 0.5, y: 0.25}
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -273,12 +273,12 @@ TextureImporter:
       name: Pants_Green_Rack
       rect:
         serializedVersion: 2
-        x: 128
+        x: 96
         y: 144
-        width: 16
-        height: 32
+        width: 32
+        height: 16
       alignment: 9
-      pivot: {x: 0.5, y: 0.25}
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -294,12 +294,12 @@ TextureImporter:
       name: Pants_Red_Rack
       rect:
         serializedVersion: 2
-        x: 144
+        x: 128
         y: 144
-        width: 16
-        height: 32
+        width: 32
+        height: 16
       alignment: 9
-      pivot: {x: 0.5, y: 0.25}
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -317,10 +317,10 @@ TextureImporter:
         serializedVersion: 2
         x: 160
         y: 144
-        width: 16
-        height: 32
+        width: 32
+        height: 16
       alignment: 9
-      pivot: {x: 0.5, y: 0.25}
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -337,11 +337,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 96
-        width: 16
-        height: 32
+        y: 64
+        width: 32
+        height: 16
       alignment: 9
-      pivot: {x: 0.5625, y: 0.25}
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -357,12 +357,12 @@ TextureImporter:
       name: Shirt_Blue_Rack
       rect:
         serializedVersion: 2
-        x: 16
-        y: 96
-        width: 16
-        height: 32
+        x: 32
+        y: 64
+        width: 32
+        height: 16
       alignment: 9
-      pivot: {x: 0.5, y: 0.25}
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -378,12 +378,12 @@ TextureImporter:
       name: Shirt_Green_Rack
       rect:
         serializedVersion: 2
-        x: 32
-        y: 96
-        width: 16
-        height: 32
+        x: 0
+        y: 48
+        width: 32
+        height: 16
       alignment: 9
-      pivot: {x: 0.5, y: 0.25}
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -399,12 +399,12 @@ TextureImporter:
       name: Shirt_Red_Rack
       rect:
         serializedVersion: 2
-        x: 48
-        y: 96
-        width: 16
-        height: 32
+        x: 32
+        y: 48
+        width: 32
+        height: 16
       alignment: 9
-      pivot: {x: 0.5, y: 0.25}
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -421,11 +421,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 96
-        width: 16
-        height: 32
+        y: 48
+        width: 32
+        height: 16
       alignment: 9
-      pivot: {x: 0.5, y: 0.25}
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -442,11 +442,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 96
-        y: 96
-        width: 16
-        height: 32
+        y: 80
+        width: 32
+        height: 16
       alignment: 9
-      pivot: {x: 0.5, y: 0.25}
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -462,12 +462,12 @@ TextureImporter:
       name: Dress_Blue_Rack
       rect:
         serializedVersion: 2
-        x: 112
-        y: 96
-        width: 16
-        height: 32
+        x: 128
+        y: 80
+        width: 32
+        height: 16
       alignment: 9
-      pivot: {x: 0.5, y: 0.25}
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -483,12 +483,12 @@ TextureImporter:
       name: Dress_Green_Rack
       rect:
         serializedVersion: 2
-        x: 128
-        y: 96
-        width: 16
-        height: 32
+        x: 160
+        y: 80
+        width: 32
+        height: 16
       alignment: 9
-      pivot: {x: 0.5, y: 0.25}
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -504,12 +504,12 @@ TextureImporter:
       name: Dress_Red_Rack
       rect:
         serializedVersion: 2
-        x: 144
-        y: 96
-        width: 16
-        height: 32
+        x: 128
+        y: 64
+        width: 32
+        height: 16
       alignment: 9
-      pivot: {x: 0.5, y: 0.25}
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -526,11 +526,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 160
-        y: 96
-        width: 16
-        height: 32
+        y: 64
+        width: 32
+        height: 16
       alignment: 9
-      pivot: {x: 0.5, y: 0.25}
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -547,7 +547,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 64
+        y: 112
         width: 16
         height: 16
       alignment: 0
@@ -568,7 +568,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 16
-        y: 64
+        y: 112
         width: 16
         height: 16
       alignment: 0
@@ -589,7 +589,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 64
+        y: 112
         width: 16
         height: 16
       alignment: 0
@@ -610,7 +610,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 48
-        y: 64
+        y: 112
         width: 16
         height: 16
       alignment: 0
@@ -631,7 +631,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 64
+        y: 112
         width: 16
         height: 16
       alignment: 0
@@ -651,8 +651,8 @@ TextureImporter:
       name: Pants_Black
       rect:
         serializedVersion: 2
-        x: 96
-        y: 64
+        x: 112
+        y: 112
         width: 16
         height: 16
       alignment: 0
@@ -672,8 +672,8 @@ TextureImporter:
       name: Pants_Blue
       rect:
         serializedVersion: 2
-        x: 112
-        y: 64
+        x: 128
+        y: 112
         width: 16
         height: 16
       alignment: 0
@@ -693,8 +693,8 @@ TextureImporter:
       name: Pants_Green
       rect:
         serializedVersion: 2
-        x: 128
-        y: 64
+        x: 144
+        y: 112
         width: 16
         height: 16
       alignment: 0
@@ -714,8 +714,8 @@ TextureImporter:
       name: Pants_Red
       rect:
         serializedVersion: 2
-        x: 144
-        y: 64
+        x: 160
+        y: 112
         width: 16
         height: 16
       alignment: 0
@@ -735,8 +735,8 @@ TextureImporter:
       name: Pants_White
       rect:
         serializedVersion: 2
-        x: 160
-        y: 64
+        x: 176
+        y: 112
         width: 16
         height: 16
       alignment: 0
@@ -757,7 +757,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 32
+        y: 16
         width: 16
         height: 16
       alignment: 0
@@ -778,7 +778,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 16
-        y: 32
+        y: 16
         width: 16
         height: 16
       alignment: 0
@@ -799,7 +799,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 32
+        y: 16
         width: 16
         height: 16
       alignment: 0
@@ -820,7 +820,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 48
-        y: 32
+        y: 16
         width: 16
         height: 16
       alignment: 0
@@ -841,7 +841,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 32
+        y: 16
         width: 16
         height: 16
       alignment: 0
@@ -861,8 +861,8 @@ TextureImporter:
       name: Dress_Black
       rect:
         serializedVersion: 2
-        x: 96
-        y: 32
+        x: 112
+        y: 16
         width: 16
         height: 16
       alignment: 0
@@ -882,8 +882,8 @@ TextureImporter:
       name: Dress_Blue
       rect:
         serializedVersion: 2
-        x: 112
-        y: 32
+        x: 128
+        y: 16
         width: 16
         height: 16
       alignment: 0
@@ -903,8 +903,8 @@ TextureImporter:
       name: Dress_Green
       rect:
         serializedVersion: 2
-        x: 128
-        y: 32
+        x: 144
+        y: 16
         width: 16
         height: 16
       alignment: 0
@@ -924,8 +924,8 @@ TextureImporter:
       name: Dress_Red
       rect:
         serializedVersion: 2
-        x: 144
-        y: 32
+        x: 160
+        y: 16
         width: 16
         height: 16
       alignment: 0
@@ -945,8 +945,8 @@ TextureImporter:
       name: Dress_White
       rect:
         serializedVersion: 2
-        x: 160
-        y: 32
+        x: 176
+        y: 16
         width: 16
         height: 16
       alignment: 0
