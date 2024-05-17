@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bc4b31f522995d7cb08ba61bf83023c, type: 3}
+  m_Name: Cashier
+  m_EditorClassIdentifier: 
+  dialogue:
+  - line:
+    - Hello! Welcome to our town's clothing shop.
+    - Are you new here? My name is Clarice, and I'd be happy to help you!
+    - 'If you would like to buy any clothes, pick them up and bring them over to
+      me. '
+    - And if you want to sell, interact with the cash register!
+    nextDialogue: 1
+  - line:
+    - 'If you would like to buy any clothes, pick them up and bring them over to
+      me. '
+    - And if you want to sell, interact with the cash register!
+    nextDialogue: 1
+  - line:
+    - Thank you for your purchase!
+    nextDialogue: 1
+  - line:
+    - I'm sorry, you don't seem to have enough money for that.
+    - Maybe you should try selling something?
+    nextDialogue: 1

@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   icon: {fileID: 0}
   spriteSheet: {fileID: 21300000, guid: 568cf5496c934c4918f95b5a9d22f3d6, type: 3}
-  price: 0
+  price: 15

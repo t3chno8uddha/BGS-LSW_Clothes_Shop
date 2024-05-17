@@ -1,14 +1,6 @@
 using System.Collections;
 using UnityEngine;
 using TMPro;
-using UnityEngine.Events;
-
-[System.Serializable]
-public class DialogueEvent
-{
-    public Dialogue dialogue;
-    public UnityEvent endingEvent;
-}
 
 public class Conversation : MonoBehaviour
 {
@@ -22,7 +14,7 @@ public class Conversation : MonoBehaviour
     public TextMeshProUGUI textBoxText;
     public float conversationSpeed = 1.0f;
 
-    public DialogueEvent[] currentDialogue;
+    public DialogueEvent currentDialogue;
 
     PlayerCharacter pCharacter;
     void Start()
@@ -44,10 +36,10 @@ public class Conversation : MonoBehaviour
         if (lineOver)
         {
             lineIndex++;
-            if (lineIndex == currentDialogue[dialogueIndex].dialogue.line.Length)
+            if (lineIndex == currentDialogue.dialogue[dialogueIndex].line.Length)
             {
-                currentDialogue[dialogueIndex].endingEvent.Invoke();
                 lineIndex = -1;
+                EndConversation(currentDialogue.dialogue[dialogueIndex].nextDialogue);
             }
             else
             {
@@ -56,16 +48,22 @@ public class Conversation : MonoBehaviour
         }
         else
         {
-            FastForwardLine(currentDialogue[dialogueIndex].dialogue.line[lineIndex]);
+            FastForwardLine(currentDialogue.dialogue[dialogueIndex].line[lineIndex]);
             lineOver = true;
         }
+    }
+
+    public void ProceedWithDialogue(int newDialogueIndex)
+    {
+        dialogueIndex = newDialogueIndex;
+        Proceed();
     }
 
     // Proceed to the next line
     void NextLine()
     {
         lineOver = false;
-        StartCoroutine(WriteText(currentDialogue[dialogueIndex].dialogue.line[lineIndex]));
+        StartCoroutine(WriteText(currentDialogue.dialogue[dialogueIndex].line[lineIndex]));
     }
 
     // Coroutine to gradually write text
