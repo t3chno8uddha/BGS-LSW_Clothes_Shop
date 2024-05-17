@@ -12,6 +12,7 @@ public class PlayerNavigation : CharacterBehaviour
     {
         // Get the player components
         rb = GetComponent<Rigidbody2D>();
+        playerAnimator = GetComponentInChildren<Animator>();
     }
 
     void Update()
