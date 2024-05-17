@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b6d2b21f4f3a6639589b09ea71119390, type: 3}
   m_Name: Jacket_Black
   m_EditorClassIdentifier: 
+  type: 1
   icon: {fileID: -1760802531, guid: 9698bf8c158a1c93393f4ea27600d400, type: 3}
   spriteSheet: {fileID: 21300000, guid: 013ad19ad054abd5e96a6d27744d5c1d, type: 3}
   price: 30

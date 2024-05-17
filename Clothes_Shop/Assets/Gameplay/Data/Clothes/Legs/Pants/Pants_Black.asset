@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b88c6509619329e34b0df8fb72b31a31, type: 3}
   m_Name: Pants_Black
   m_EditorClassIdentifier: 
+  type: 2
   icon: {fileID: 1298199490, guid: 9698bf8c158a1c93393f4ea27600d400, type: 3}
   spriteSheet: {fileID: 21300000, guid: 94a68f0761b3f26bf92e1da88d5a2d5b, type: 3}
   price: 15

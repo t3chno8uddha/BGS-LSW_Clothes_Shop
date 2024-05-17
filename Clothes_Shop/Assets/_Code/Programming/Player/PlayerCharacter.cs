@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using JetBrains.Annotations;
 
 [RequireComponent(typeof(PlayerClothing), typeof(PlayerNavigation))]
 public class PlayerCharacter : MonoBehaviour
@@ -11,9 +12,10 @@ public class PlayerCharacter : MonoBehaviour
     public int money = 200;
     public TextMeshProUGUI moneyBox;
     
-    public List<Clothing> clothesInventory = new List<Clothing>();
+    public List<Clothing> inventory = new List<Clothing>();
+    public Inventory inventoryMenu;
 
-
+    public List<Clothing> startingInventory = new List<Clothing>();
 
     void Awake()
     {
@@ -24,6 +26,17 @@ public class PlayerCharacter : MonoBehaviour
     void Start()
     {
         UpdateMoney(money);
+
+        foreach (Clothing clothing in inventory)
+        {
+            inventoryMenu.AddItem(clothing);
+        }
+    }
+
+    public void AddPurchase(Clothing clothing)
+    {
+        inventory.Add(clothing);
+        inventoryMenu.AddItem(clothing);
     }
 
     public void UpdateMoney(int newMoney)

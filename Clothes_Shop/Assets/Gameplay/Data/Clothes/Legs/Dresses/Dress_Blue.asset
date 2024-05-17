@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b88c6509619329e34b0df8fb72b31a31, type: 3}
   m_Name: Dress_Blue
   m_EditorClassIdentifier: 
+  type: 2
   icon: {fileID: 1827045390, guid: 9698bf8c158a1c93393f4ea27600d400, type: 3}
   spriteSheet: {fileID: 21300000, guid: 4cfd63c1e97f2cc21b8930c65eedcddc, type: 3}
   price: 35

@@ -31,7 +31,7 @@ public class CashierBehaviour : MonoBehaviour
     {
         if (pCharacter.money >= clothes.price)
         {
-            pCharacter.clothesInventory.Add(clothes);
+            pCharacter.AddPurchase(clothes);
 
             pCharacter.UpdateMoney(pCharacter.money -= clothes.price);
 

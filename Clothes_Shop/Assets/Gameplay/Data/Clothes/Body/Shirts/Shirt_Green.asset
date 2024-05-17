@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b6d2b21f4f3a6639589b09ea71119390, type: 3}
   m_Name: Shirt_Green
   m_EditorClassIdentifier: 
+  type: 1
   icon: {fileID: 353650403, guid: 9698bf8c158a1c93393f4ea27600d400, type: 3}
   spriteSheet: {fileID: 21300000, guid: 26f9e4c947b38ce00ad650b1b5e94988, type: 3}
   price: 25

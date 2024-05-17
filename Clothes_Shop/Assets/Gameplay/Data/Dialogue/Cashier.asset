@@ -27,6 +27,7 @@ MonoBehaviour:
     nextDialogue: 1
   - line:
     - Thank you for your purchase!
+    - Click on your Inventory [Top Right] to try them on.
     nextDialogue: 1
   - line:
     - I'm sorry, you don't seem to have enough money for that.

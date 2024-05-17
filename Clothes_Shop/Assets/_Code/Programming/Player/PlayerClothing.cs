@@ -1,37 +1,63 @@
+using System.Collections.Generic;
 using UnityEngine;
+
+public enum ClothingType
+{ Headwear, Bodywear, Legwear }
 
 public class PlayerClothing : MonoBehaviour
 {
     public Clothing heldClothing;
 
     [Header("Equipment")]
-    public Headwear headwear; // The headwear item to equip.
-    public Bodywear bodywear; // The bodywear item to equip.
-    public Legwear legwear; // The legwear item to equip.
+    public Dictionary<ClothingType, Clothing> equipment = new Dictionary<ClothingType, Clothing>();
+
+    public List<Clothing> starterClothes =new List<Clothing>();
 
     [Header("Sprite Renderers")]
     public SpriteRenderer handRenderer; // Sprite renderer for the held item.
     public SpriteRenderer headSprite, bodySprite, legsSprite; // Sprite renderers for head, body, and legs.
+    
+    PlayerCharacter pCharacter;
 
     void Start()
     {
-        EquipClothing (headwear, bodywear, legwear);
-    }
-    
-    void EquipClothing(Headwear newHead = null, Bodywear newBody = null, Legwear newLegs = null)
-    {
-        // Check and equip new headwear if provided.
-        if (newHead != null) { EquipItem(newHead, headSprite); }
-        // Check and equip new bodywear if provided.
-        if (newBody != null) { EquipItem(newBody, bodySprite); }
-        // Check and equip new legwear if provided.
-        if (newLegs != null) { EquipItem(newLegs, legsSprite); }
+        pCharacter = FindObjectOfType<PlayerCharacter>();
+
+        foreach (Clothing item in pCharacter.inventory)
+        {
+            EquipClothes(item);
+        }
     }
 
-    void EquipItem(Clothing clothing, SpriteRenderer renderer)
+    public void EquipClothes(Clothing clothing)
     {
         // Display the equipped clothing sprite.
-        renderer.sprite = clothing.spriteSheet;
+        SpriteRenderer clothingRenderer = null;
+        
+        if (clothing is Headwear)
+        {
+            clothingRenderer = headSprite;
+        }
+        else if (clothing is Bodywear)
+        {
+            clothingRenderer = bodySprite;
+        }
+        else if (clothing is Legwear)
+        {
+            clothingRenderer = legsSprite;
+        }
+
+        clothingRenderer.sprite = clothing.spriteSheet;
+
+        // Check if there is already headwear equipped
+        if (equipment.ContainsKey(clothing.type))
+        {
+            // Remove the previously equipped headwear
+            equipment.Remove(clothing.type);
+        }
+
+        // Equip the new headwear
+        equipment.Add(clothing.type, clothing);
     }
 
     public void HoldClothes(Clothing clothing)
