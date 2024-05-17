@@ -1,7 +1,12 @@
 using UnityEngine;
 
-public class PlayerNavigation : CharacterBehaviour
+public class PlayerNavigation : MonoBehaviour
 {
+    [HideInInspector] public bool isConversing = false;
+
+    public string characterName; // Character name.
+    public float movementSpeed; // Character movement speed.
+
     bool isMoving = false; // Whether the player is moving.
     Vector2 playerInput; // Player movement input.
     Animator playerAnimator; // Player sprite sheet animator
@@ -18,7 +23,15 @@ public class PlayerNavigation : CharacterBehaviour
     void Update()
     {
         // Get player input and animate the player.
-        GetInput();
+        if (!isConversing)
+        {
+            GetInput();
+        }
+        else
+        {
+            playerInput = Vector2.zero;
+        }
+
         AnimatePlayer();
     }
 

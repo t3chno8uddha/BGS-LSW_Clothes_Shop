@@ -2,41 +2,19 @@ using UnityEngine;
 
 public class ClothesHanger : MonoBehaviour
 {
-    public bool isInReach = false;
     public Clothing clothes;
     
-    GameObject playerHands;
-
-    void Update()
+    PlayerCharacter pCharacter;
+    void Start()
     {
-        if (isInReach)
-        {
-            if (Input.GetButtonDown("Fire1"))
-            {
-                TakeClothes();
-            }
-        }
+        pCharacter = FindObjectOfType<PlayerCharacter>();
     }
 
-    void OnTriggerEnter2D(Collider2D collider)
+    public void TakeClothes()
     {
-        isInReach = true;
-    
-        playerHands = collider.gameObject;
-    }
+        PlayerClothing pClothing = pCharacter.pClothing;
 
-    void OnTriggerExit2D (Collider2D collider)
-    {
-        isInReach = false;
-
-        playerHands = null;
-    }
-
-    void TakeClothes()
-    {
-        PlayerClothing player = playerHands.transform.parent.GetComponentInParent<PlayerClothing>();
-        
-        if (player.heldClothing == null) player.HoldClothes(clothes);
-        else player.DropClothes();
+        if (pClothing.heldClothing == null) pClothing.HoldClothes(clothes);
+        else pClothing.DropClothes();
     }
 }

@@ -17,7 +17,7 @@ public class PlayerClothing : MonoBehaviour
     {
         EquipClothing (headwear, bodywear, legwear);
     }
-
+    
     void EquipClothing(Headwear newHead = null, Bodywear newBody = null, Legwear newLegs = null)
     {
         // Check and equip new headwear if provided.

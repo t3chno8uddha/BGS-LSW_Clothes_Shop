@@ -139,6 +139,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5414998563144225529}
+  - component: {fileID: 8678896332440203229}
   - component: {fileID: 7006235095078648992}
   - component: {fileID: 8575571950723542697}
   - component: {fileID: 4486612993146633007}
@@ -165,6 +166,33 @@ Transform:
   - {fileID: 7853157643830791246}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8678896332440203229
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5899189146831000195}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac8d7f12dc66fb342a4dd7960a774678, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interactionEvent:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 7006235095078648992}
+        m_TargetAssemblyTypeName: ClothesHanger, Assembly-CSharp
+        m_MethodName: TakeClothes
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &7006235095078648992
 MonoBehaviour:
   m_ObjectHideFlags: 0

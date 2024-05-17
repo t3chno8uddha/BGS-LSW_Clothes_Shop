@@ -12,4 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bc4b31f522995d7cb08ba61bf83023c, type: 3}
   m_Name: Acquainted
   m_EditorClassIdentifier: 
-  dialogue: []
+  line:
+  - 'If you would like to buy any clothes, pick them up and bring them over to me. '
+  - And if you want to sell, approach the cash register!
