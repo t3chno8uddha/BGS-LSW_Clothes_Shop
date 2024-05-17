@@ -2,31 +2,30 @@ using UnityEngine;
 
 public class PlayerClothing : MonoBehaviour
 {
-    public Headwear headwear;
-    public Bodywear bodywear;
-    public Legwear legwear;
+    public Headwear headwear; // The headwear item to equip.
+    public Bodywear bodywear; // The bodywear item to equip.
+    public Legwear legwear; // The legwear item to equip.
 
-    public SpriteRenderer headSprite, bodySprite, legsSprite;
+    public SpriteRenderer headSprite, bodySprite, legsSprite; // Sprite renderers for head, body, and legs.
 
     void Start()
     {
-        EquipClothing(headwear, bodywear, legwear);
+        EquipClothing (headwear, bodywear, legwear);
     }
 
     void EquipClothing(Headwear newHead = null, Bodywear newBody = null, Legwear newLegs = null)
     {
-        // Check if we're passing new headwear.
-        if (newHead != null) { EquipItem (newHead, headSprite); }
-        // Check if we're passing new bodywear.
-        if (newBody != null) { EquipItem (newBody, bodySprite); }
-        // Check if we're passing new legwear.
-        if (newLegs != null) { EquipItem (newLegs, legsSprite); }
+        // Check and equip new headwear if provided.
+        if (newHead != null) { EquipItem(newHead, headSprite); }
+        // Check and equip new bodywear if provided.
+        if (newBody != null) { EquipItem(newBody, bodySprite); }
+        // Check and equip new legwear if provided.
+        if (newLegs != null) { EquipItem(newLegs, legsSprite); }
     }
 
     void EquipItem(Clothing clothing, SpriteRenderer renderer)
     {
-        print ("Equipped");
-        // Set the actual spritesheet to that piece of clothing
+        // Display the equipped clothing sprite.
         renderer.sprite = clothing.spriteSheet;
     }
 }

@@ -1,10 +1,7 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class CharacterBehaviour : MonoBehaviour
 {
-    public string characterName;
-    public float movementSpeed;
-
+    public string characterName; // Character name.
+    public float movementSpeed; // Character movement speed.
 }
