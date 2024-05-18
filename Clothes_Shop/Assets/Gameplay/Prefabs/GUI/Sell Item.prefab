@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: -6131930986868533320}
   - component: {fileID: 6330843598755999957}
   m_Layer: 5
-  m_Name: Menu Icon
+  m_Name: Sell Item
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -92,7 +92,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pCharacter: {fileID: 0}
-  inventory: {fileID: 0}
   itemIcon: {fileID: 6228212069574671992}
   selectSprite: {fileID: 6497976895356980974}
   clothing: {fileID: 0}
@@ -142,7 +141,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: -6131930986868533320}
         m_TargetAssemblyTypeName: InventoryItem, Assembly-CSharp
-        m_MethodName: EquipItem
+        m_MethodName: SellItem
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

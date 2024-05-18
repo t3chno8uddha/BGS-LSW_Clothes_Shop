@@ -26,17 +26,11 @@ public class PlayerCharacter : MonoBehaviour
     void Start()
     {
         UpdateMoney(money);
-
-        foreach (Clothing clothing in inventory)
-        {
-            inventoryMenu.AddItem(clothing);
-        }
     }
 
     public void AddPurchase(Clothing clothing)
     {
         inventory.Add(clothing);
-        inventoryMenu.AddItem(clothing);
     }
 
     public void UpdateMoney(int newMoney)
