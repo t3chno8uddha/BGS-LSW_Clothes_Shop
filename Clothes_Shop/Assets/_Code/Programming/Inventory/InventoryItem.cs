@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -31,18 +32,25 @@ public class InventoryItem : MonoBehaviour
         // Check if the clothing is currently equipped and remove it
         if (pClothing.equipment.ContainsKey(clothing.type))
         {
-            pClothing.equipment.Remove(clothing.type);
-
-            SpriteRenderer clothingRenderer = null;
-
-            // Determine which sprite renderer to clear based on the clothing type
-            if (clothing is Headwear) clothingRenderer = pClothing.headSprite;
-            else if (clothing is Bodywear) clothingRenderer = pClothing.bodySprite;
-            else if (clothing is Legwear) clothingRenderer = pClothing.legsSprite;
-
-            if (clothingRenderer != null)
+            Clothing previousClothing;
+            if (pClothing.equipment.TryGetValue(clothing.type, out previousClothing))
             {
-                clothingRenderer.sprite = null;
+                if (previousClothing == clothing)
+                {
+                    pClothing.equipment.Remove(clothing.type);
+
+                    SpriteRenderer clothingRenderer = null;
+
+                    // Determine which sprite renderer to clear based on the clothing type
+                    if (clothing is Headwear) clothingRenderer = pClothing.headSprite;
+                    else if (clothing is Bodywear) clothingRenderer = pClothing.bodySprite;
+                    else if (clothing is Legwear) clothingRenderer = pClothing.legsSprite;
+
+                    if (clothingRenderer != null)
+                    {
+                        clothingRenderer.sprite = null;
+                    }
+                }
             }
         }
 
