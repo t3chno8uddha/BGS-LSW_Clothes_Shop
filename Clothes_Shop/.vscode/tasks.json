@@ -7,6 +7,12 @@
 			"group": "clean",
 			"problemMatcher": [],
 			"label": "dotnet: clean"
-		}
+		},
+		{
+            "label": "Restore Solutions",
+            "type": "shell",
+            "command": "for solution in $(find . -type f -name '*.sln'); do dotnet restore \"$solution\"; done",
+            "problemMatcher": []
+        }
 	]
 }
