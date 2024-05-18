@@ -2,13 +2,16 @@ using UnityEngine;
 
 public class ClothesHanger : MonoBehaviour
 {
-    public Clothing clothes; // Clothing item on the hanger
+    public Clothing clothes; // Clothing item on the hanger.
     
-    private PlayerCharacter pCharacter; // Reference to the player character
+    PlayerCharacter pCharacter; // Reference to the player character.
+    public AudioClip pickUpSfx, dropSfx;
+    AudioSource audioSource;
 
     void Start()
     {
-        pCharacter = FindObjectOfType<PlayerCharacter>(); // Find the player character in the scene
+        pCharacter = FindObjectOfType<PlayerCharacter>(); // Find the player character in the scene.
+        audioSource = GetComponent<AudioSource>();
     }
 
     public void TakeClothes()
@@ -17,11 +20,13 @@ public class ClothesHanger : MonoBehaviour
 
         if (pClothing.heldClothing == null)
         {
-            pClothing.HoldClothes(clothes); // Player picks up the clothes
+            pClothing.HoldClothes(clothes); // Pick up the clothes.
+            audioSource.PlayOneShot(pickUpSfx);
         }
         else
         {
-            pClothing.DropClothes(); // Player drops the currently held clothes
+            pClothing.DropClothes(); // Drop the currently held clothes.
+            audioSource.PlayOneShot(dropSfx);
         }
     }
 }

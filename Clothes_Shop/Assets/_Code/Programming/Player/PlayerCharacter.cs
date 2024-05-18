@@ -16,6 +16,9 @@ public class PlayerCharacter : MonoBehaviour
     public List<Clothing> inventory = new List<Clothing>(); // The player's clothing inventory.
     public Inventory inventoryMenu; // The GUI responsible for inventory display.
 
+    public AudioClip moneyClip;
+    AudioSource audioSource;
+
     void Awake()
     {
         // Get the default references.
@@ -27,6 +30,7 @@ public class PlayerCharacter : MonoBehaviour
     {
         // Update the money once the game starts.
         UpdateMoney(money);
+        audioSource = GetComponent<AudioSource>();
     }
 
     public void AddPurchase(Clothing clothing)
@@ -36,6 +40,7 @@ public class PlayerCharacter : MonoBehaviour
 
     public void AddMoney(int newMoney)
     {
+        audioSource.PlayOneShot(moneyClip);
         UpdateMoney(money+newMoney);
     }
 

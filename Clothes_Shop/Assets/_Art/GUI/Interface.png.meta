@@ -210,7 +210,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -218,6 +218,48 @@ TextureImporter:
       bones: []
       spriteID: 91fd3b1ad6ba23076b3741d769c42d49
       internalID: -900409936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFX
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a95f6a30a8f91e8aa3988e1b07b9e0
+      internalID: 838182525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGM
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6d4b404eb86691a98ad98b089565d6
+      internalID: -1614708231
       vertices: []
       indices: 
       edges: []
@@ -233,11 +275,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      BGM: -1614708231
       Coin: 1496686027
       Cross: -900409936
       Hanger: 937667717
       Interface: -1209862073
       Interface_3: -792505812
+      SFX: 838182525
       Selection: -778367566
       Slot: -1421480151
   mipmapLimitGroupName: 

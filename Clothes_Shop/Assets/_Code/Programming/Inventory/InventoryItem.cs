@@ -8,9 +8,12 @@ public class InventoryItem : MonoBehaviour
     public Image itemIcon, selectSprite; // UI elements for the item icon and selection sprite
     public Clothing clothing; // The clothing item associated with this inventory item
 
+
     // Method to equip this item to the player character
     public void EquipItem()
     {
+        inventory.audioSource.PlayOneShot(inventory.equipClip);
+
         PlayerClothing pClothing = pCharacter.pClothing;
         pClothing.EquipClothes(clothing); // Equip the clothing item
     }
@@ -18,6 +21,8 @@ public class InventoryItem : MonoBehaviour
     // Method to sell this item
     public void SellItem()
     {
+        inventory.audioSource.PlayOneShot(inventory.sellClip);
+
         PlayerClothing pClothing = pCharacter.pClothing;
 
         // Remove the clothing item from the player's inventory

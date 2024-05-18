@@ -9,9 +9,13 @@ public class Inventory : MonoBehaviour
 
     public List<InventoryItem> menuItems = new List<InventoryItem>(); // List of items in the inventory menu
 
+    public AudioClip equipClip, sellClip;
+    public AudioSource audioSource;
+    
     void Start()
     {
         pCharacter = FindObjectOfType<PlayerCharacter>(); // Find the player character in the scene
+        audioSource = GetComponent<AudioSource>();
     }
 
     // Adds a new item to the inventory menu

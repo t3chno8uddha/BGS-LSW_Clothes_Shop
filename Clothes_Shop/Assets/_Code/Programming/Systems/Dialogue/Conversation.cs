@@ -17,9 +17,13 @@ public class Conversation : MonoBehaviour
 
     PlayerCharacter pCharacter;
 
+    AudioSource audioSource;
+    public AudioClip sfx;
+
     void Start()
     {
         pCharacter = FindObjectOfType<PlayerCharacter>();
+        audioSource = GetComponent<AudioSource>();
     }
     
     // Proceed to the next line or event.
@@ -70,6 +74,7 @@ public class Conversation : MonoBehaviour
     void NextLine()
     {
         lineOver = false;
+        audioSource.PlayOneShot(sfx);
         StartCoroutine(WriteText(currentDialogue.dialogue[dialogueIndex].line[lineIndex]));
     }
 
