@@ -31,45 +31,44 @@ public class PlayerClothing : MonoBehaviour
 
     public void EquipClothes(Clothing clothing)
     {
-        // Display the equipped clothing sprite.
         SpriteRenderer clothingRenderer = null;
-        
-        if (clothing is Headwear)
-        {
-            clothingRenderer = headSprite;
-        }
-        else if (clothing is Bodywear)
-        {
-            clothingRenderer = bodySprite;
-        }
-        else if (clothing is Legwear)
-        {
-            clothingRenderer = legsSprite;
-        }
+        if (clothing is Headwear) clothingRenderer = headSprite;
+        else if (clothing is Bodywear) clothingRenderer = bodySprite;
+        else if (clothing is Legwear) clothingRenderer = legsSprite;
 
-        clothingRenderer.sprite = clothing.spriteSheet;
 
-        // Check if there is already headwear equipped
-        if (equipment.ContainsKey(clothing.type))
+        if (equipment.ContainsValue(clothing))
         {
             // Remove the previously equipped headwear
             equipment.Remove(clothing.type);
+
+            clothingRenderer.sprite = null;
         }
 
-        // Equip the new headwear
-        equipment.Add(clothing.type, clothing);
+        else
+        {
+            // Check if there is already headwear equipped
+            if (equipment.ContainsKey(clothing.type))
+            {
+                // Remove the previously equipped headwear
+                equipment.Remove(clothing.type);
+            }
+
+            // Display the equipped clothing sprite.
+            clothingRenderer.sprite = clothing.spriteSheet;
+            // Equip the new headwear
+            equipment.Add(clothing.type, clothing);
+        }
     }
 
     public void HoldClothes(Clothing clothing)
     {
-        print("Equipping");
         heldClothing = clothing;
         handRenderer.sprite = clothing.icon;
     }
 
     public void DropClothes()
     {
-        print("Dropping");
         heldClothing = null;
         handRenderer.sprite = null;
     }

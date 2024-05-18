@@ -4,6 +4,7 @@ public class Inventory : MonoBehaviour
 {
     PlayerCharacter pCharacter;
     public InventoryItem item;
+    public GameObject menuObject;
 
     void Start()
     {
@@ -12,7 +13,7 @@ public class Inventory : MonoBehaviour
 
     public void AddItem(Clothing newClothing)
     {
-        InventoryItem newItem = Instantiate(item.gameObject, transform).GetComponent<InventoryItem>();
+        InventoryItem newItem = Instantiate(item.gameObject, menuObject.transform).GetComponent<InventoryItem>();
 
         newItem.inventory = this;
         newItem.pCharacter = pCharacter;
@@ -21,5 +22,10 @@ public class Inventory : MonoBehaviour
 
         newItem.itemIcon.sprite = newClothing.icon;
         newItem.itemIcon.enabled = true;
+    }
+
+    public void ToggleMenu()
+    {
+        menuObject.SetActive(!menuObject.activeInHierarchy);
     }
 }

@@ -705,6 +705,48 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Sign
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73681a25d8390f15822b6d0e6e586a5
+      internalID: -228564351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 32
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8d4058bbcf35d50956e756f638025a
+      internalID: 1014953333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -734,8 +776,10 @@ TextureImporter:
       Shadow_Full: 1463636156
       Shadow_Horizontal: -1184163994
       Shadow_Vertical: -638235281
+      Sign: -228564351
       Sofa: 819068483
       TV: -1307134156
+      Table: 1014953333
       Table_Bottom: 66339269
       Table_Bottom_1: -1574671281
       Table_Bottom_2: -182730570
