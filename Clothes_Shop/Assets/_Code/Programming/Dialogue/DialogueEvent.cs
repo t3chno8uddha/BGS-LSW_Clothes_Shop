@@ -4,12 +4,12 @@ using UnityEngine;
 public class Dialogue
 {
     [TextArea(1,5)]
-    public string[] line;
-    public int nextDialogue;
+    public string[] line; // The lines that a dialogue will be speaking.
+    public int nextDialogue; // The index of the next dialogue.
 }
 
 [CreateAssetMenu(fileName = "New Dialogue", menuName = "NPC/Dialogue")]
 public class DialogueEvent : ScriptableObject
 {
-    public Dialogue[] dialogue;
+    public Dialogue[] dialogue; // A holder for all dialogues.
 }

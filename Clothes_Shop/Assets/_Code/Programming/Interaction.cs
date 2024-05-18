@@ -3,9 +3,9 @@ using UnityEngine.Events;
 
 public class Interaction : MonoBehaviour
 {
-    bool isInReach = false;
+    bool isInReach = false; // Whether or not the player is in interactible distance.
 
-    public UnityEvent interactionEvent;
+    public UnityEvent interactionEvent; // The event to call in case of an interaction.
 
     void Update()
     {

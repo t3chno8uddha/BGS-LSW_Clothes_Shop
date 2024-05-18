@@ -1,40 +1,48 @@
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
-using JetBrains.Annotations;
 
 [RequireComponent(typeof(PlayerClothing), typeof(PlayerNavigation))]
 public class PlayerCharacter : MonoBehaviour
 {
-    [HideInInspector] public PlayerClothing pClothing;
+    // References to the other player classes.
+    [HideInInspector] public PlayerClothing pClothing; 
     [HideInInspector] public PlayerNavigation pNav;
 
-    public int money = 200;
-    public TextMeshProUGUI moneyBox;
+    public int money = 200; // Player's total money.
+    public TextMeshProUGUI moneyBox; // The text box that displays money.
     
-    public List<Clothing> inventory = new List<Clothing>();
-    public Inventory inventoryMenu;
-
-    public List<Clothing> startingInventory = new List<Clothing>();
+    public int maxItems = 20;
+    public List<Clothing> inventory = new List<Clothing>(); // The player's clothing inventory.
+    public Inventory inventoryMenu; // The GUI responsible for inventory display.
 
     void Awake()
     {
+        // Get the default references.
         pClothing = GetComponent<PlayerClothing>();
         pNav = GetComponent<PlayerNavigation>();
     }
 
     void Start()
     {
+        // Update the money once the game starts.
         UpdateMoney(money);
     }
 
     public void AddPurchase(Clothing clothing)
     {
-        inventory.Add(clothing);
+        inventory.Add(clothing); // Add the clothes to the inventory.
+    }
+
+    public void AddMoney(int newMoney)
+    {
+        UpdateMoney(money+newMoney);
     }
 
     public void UpdateMoney(int newMoney)
     {
+        // Set the new money amount and send it to the GUI.
+
         money = newMoney;
         moneyBox.text = money.ToString();
     }

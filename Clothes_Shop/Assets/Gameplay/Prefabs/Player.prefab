@@ -57,9 +57,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 1fa0ac47d9cf8b7ab998f9be65f4012a, type: 2}
   - {fileID: 11400000, guid: 2b6e504ce035f354186332f9b5826305, type: 2}
   inventoryMenu: {fileID: 0}
-  startingInventory:
-  - {fileID: 11400000, guid: 1fa0ac47d9cf8b7ab998f9be65f4012a, type: 2}
-  - {fileID: 11400000, guid: 2b6e504ce035f354186332f9b5826305, type: 2}
 --- !u!114 &1999673065134214526
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -88,7 +85,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   heldClothing: {fileID: 0}
-  starterClothes: []
   handRenderer: {fileID: 3664144060690266287}
   headSprite: {fileID: 8325870606732338810}
   bodySprite: {fileID: 2119028151924654916}
@@ -350,7 +346,7 @@ Transform:
   m_GameObject: {fileID: 8868568601435365761}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -2, z: 0}
   m_LocalScale: {x: 6, y: 2, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

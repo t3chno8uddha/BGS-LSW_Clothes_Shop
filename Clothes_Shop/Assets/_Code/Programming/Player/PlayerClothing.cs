@@ -6,23 +6,22 @@ public enum ClothingType
 
 public class PlayerClothing : MonoBehaviour
 {
-    public Clothing heldClothing;
+    public Clothing heldClothing; // Reference for if a player is holding clothes.
 
-    [Header("Equipment")]
+    // A dictionary to handle player equipment. We use a dictionary so that there are different types of equipments.
     public Dictionary<ClothingType, Clothing> equipment = new Dictionary<ClothingType, Clothing>();
-
-    public List<Clothing> starterClothes =new List<Clothing>();
 
     [Header("Sprite Renderers")]
     public SpriteRenderer handRenderer; // Sprite renderer for the held item.
     public SpriteRenderer headSprite, bodySprite, legsSprite; // Sprite renderers for head, body, and legs.
     
-    PlayerCharacter pCharacter;
+    PlayerCharacter pCharacter; // Player reference.
 
     void Start()
     {
         pCharacter = FindObjectOfType<PlayerCharacter>();
 
+        // Equip our existing clothes upon loading in.
         foreach (Clothing item in pCharacter.inventory)
         {
             EquipClothes(item);
@@ -31,6 +30,7 @@ public class PlayerClothing : MonoBehaviour
 
     public void EquipClothes(Clothing clothing)
     {
+        // Find the correct sprite renderer.
         SpriteRenderer clothingRenderer = null;
         if (clothing is Headwear) clothingRenderer = headSprite;
         else if (clothing is Bodywear) clothingRenderer = bodySprite;
@@ -39,7 +39,7 @@ public class PlayerClothing : MonoBehaviour
 
         if (equipment.ContainsValue(clothing))
         {
-            // Remove the previously equipped headwear
+            // Remove the previously equipped clothing.
             equipment.Remove(clothing.type);
 
             clothingRenderer.sprite = null;
@@ -47,16 +47,16 @@ public class PlayerClothing : MonoBehaviour
 
         else
         {
-            // Check if there is already headwear equipped
+            // Check if there is already clothing equipped.
             if (equipment.ContainsKey(clothing.type))
             {
-                // Remove the previously equipped headwear
+                // Remove the previously equipped clothing.
                 equipment.Remove(clothing.type);
             }
 
             // Display the equipped clothing sprite.
             clothingRenderer.sprite = clothing.spriteSheet;
-            // Equip the new headwear
+            // Equip the new clothing.
             equipment.Add(clothing.type, clothing);
         }
     }

@@ -50,6 +50,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   soldEvent: 2
   insufficientEvent: 3
+  maxEvent: 4
 --- !u!114 &8219979314875543216
 MonoBehaviour:
   m_ObjectHideFlags: 0

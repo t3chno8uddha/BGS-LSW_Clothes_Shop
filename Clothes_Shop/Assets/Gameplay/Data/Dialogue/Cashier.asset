@@ -27,9 +27,14 @@ MonoBehaviour:
     nextDialogue: 1
   - line:
     - Thank you for your purchase!
-    - Click on your Inventory [Top Left] to try them on.
+    - Click on your Inventory in the top left to try them on.
     nextDialogue: 1
   - line:
-    - I'm sorry, you don't seem to have enough money for that.
-    - Maybe you should try selling something?
+    - I'm so sorry, you don't seem to have enough money for that!
+    - You could sell something, or... Try clicking on your money count in the right
+      corner.
+    nextDialogue: 1
+  - line:
+    - Uh-oh! Looks like you don't have any more inventory space left on you...
+    - Why don't you try selling the clothes you longer want?
     nextDialogue: 1

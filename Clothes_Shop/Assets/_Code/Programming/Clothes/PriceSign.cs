@@ -7,6 +7,7 @@ public class PriceSign : MonoBehaviour
     
     void Start()
     {
+        // Set the child text to the item's price.
         GetComponentInChildren<TextMeshPro>().text = "$" + clothing.price.ToString();
     }
 }
